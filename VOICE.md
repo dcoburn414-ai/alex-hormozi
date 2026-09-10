@@ -49,3 +49,8 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 29. "Passive income is overrated. We seek freedom, but what we really want is options for engaging activities." — My First Million (quoted back to him; he affirms) — https://myfirstmillion.wiki/episodes/4KfuQwB5rIs
 30. "To this day, that is the richest I've ever felt. Going from $1,000 to $100,000 in a month." — My First Million return — https://myfirstmillion.wiki/episodes/eut1NsLaiG4
 31. "The biggest threat is always focus. Which is why I say no to almost everything…" — MFM return — same URL
+
+32. "all businesses can get very big. Not all entrepreneurs can get very big… you do not lack tactics, you lack character." — The Game Ep 997 — https://sozai.app/transcript/3-signs-successful-entrepreneur/ (2026-09-08)
+33. "a focused fool will beat a distracted genius." — Ep 997 — same
+34. "it's just unknown hard versus known hard… Don't do that. Like take known hard." — Ep 997 — same
+35. "They were all seeking tactics, but what they really needed were traits." — Ep 997 — same
