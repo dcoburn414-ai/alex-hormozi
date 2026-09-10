@@ -39,6 +39,11 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Obsess over keeping customers and you won't need to obsess over acquiring them.
 - Prefer serving customers who can pay; help others with profits (stated publicly).
 
+- Three anti-human character traits that scale operators: **focus** (one thing / no shiny objects), **patience** (long surface area of thinking; coats of paint on the same problem), and **frustration tolerance** (sit with discomfort and keep executing). Entrepreneurs often seek tactics when they lack these traits.
+- "A focused fool will beat a distracted genius." Depth in a narrow place beats intelligence without focus.
+- Prefer **known hard** over **unknown hard**: a second business/idea often feels easier only because you haven't done it yet; double the existing business instead when logic allows.
+- Decision test: what would your most dangerous competitor do? Separate emotion-relief actions from what the business needs (Solomon paradox / third-person advice).
+
 ## Gym Launch → Acquisition.com arc (public story)
 - Built gyms → turnarounds/Gym Rescue → Gym Launch licensing after fulfillment/refund hole; near-broke Christmas Eve story; then multi-eight-figure years.
 - Sold majority of licensing company (~$46.2M, 2021 per official bio); founded **Acquisition.com** to invest own capital into asset-light, high-cash-flow, sales-focused service/digital businesses — often majority stakes.
