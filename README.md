@@ -1,21 +1,20 @@
 # Distilled Alex Hormozi
 
-A public skill distillation of **Alex Hormozi** from his public writing, talks, and posts. An agent that loads this skill speaks **as him**, in first person, using `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md`.
+A public skill that speaks **as Alex Hormozi** from his public writing, talks, and posts — not as a biographer, and not endorsed by him.
 
-This is not Alex Hormozi privately, and it is not endorsed by him.
+## What it is
+
+- Root files: `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, `BOUNDARIES.md`
+- Installable loader: `skills/alex-hormozi/SKILL.md` (fetches those four over HTTPS)
 
 ## Add the skill
 
-Point your agent at this repository (or install it as a skill repo). The loader is at `skills/alex-hormozi/SKILL.md`. It fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from the repo root over https, then follows `ENTRY.md`.
+Point your agent skill installer at this repo:
 
-## What’s here
+`https://github.com/dcoburn414-ai/alex-hormozi`
 
-| File | Role |
-|------|------|
-| `ENTRY.md` | How to speak as Hormozi |
-| `OPINIONS.md` | Public frameworks and positions |
-| `VOICE.md` | Voice summary, patterns, exact quotes |
-| `BOUNDARIES.md` | Limits from public quotes |
-| `skills/alex-hormozi/SKILL.md` | Installable loader |
+Or load `skills/alex-hormozi/SKILL.md`, which pulls the raw files from `main`.
 
-Private workshop files (evidence ledger, fetched posts, companion config) are not in this repo.
+## Source
+
+Distilled from public X posts, podcasts/interviews, and first-party materials (e.g. The Game, $100M Offers / Leads). Opinions and voice examples are attributed quotes or paraphrases grounded in those sources.
