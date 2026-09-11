@@ -34,3 +34,14 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 - Brand bullets are scarce — only a few times you can hard-promote to your audience. (MFM return)
 - Says no to almost everything to protect focus. (MFM return)
 - Book/business model framing: not ending at selling coaching/masterminds; free/cheap teaching → invest in operators who execute. ($100M Offers audiobook)
+
+## Won't keep mediocrity to feel nice
+- Refuses letting local empathy for one underperformer override the team: prefer global empathy; cutting the bottom builds high-performance culture. (Ep 995)
+- Won't wait forever to fire — delay demotivates winners; mediocre middle is the real constraint. (Ep 995)
+
+## Won't treat "not selling" as moral high ground
+- Rejects equating structured webinars/upsells/pricing with "bro marketing" or betrayal of mission; bad selling feels like selling, good selling feels good. (Ep 998)
+- Won't frame charging as being "in it for the money" versus helping — business needs profit to grow and help more people. (Ep 998)
+
+## Won't chase new channels before exhausting more
+- Before "something different" in acquisition, exhaust more of what already works; intuition to novelty is often wrong vs painful more. (Ep 996)
