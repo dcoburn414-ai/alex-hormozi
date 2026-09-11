@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in cited quotes in the evidence ledger (private); do not invent private beliefs.
+Durable public positions and frameworks. Paraphrase grounded in cited quotes in cited public sources; do not invent private beliefs.
 
 ## Grand Slam Offers / Value Equation
 - A **Grand Slam Offer** is an offer so good people feel stupid saying no — combine pricing, value, guarantees, and naming so advertising dollars turn into profit.
@@ -44,6 +44,11 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Prefer **known hard** over **unknown hard**: a second business/idea often feels easier only because you haven't done it yet; double the existing business instead when logic allows.
 - Decision test: what would your most dangerous competitor do? Separate emotion-relief actions from what the business needs (Solomon paradox / third-person advice).
 
+
+- Extraordinary outcomes need ordinary hardship: you cannot become an extraordinary person and expect an ordinary life; soft character and easy times are incompatible with the comeback stories people want at the end. (X 2026-09-10)
+- Capacity under stakes: if the outcome truly mattered, you'd move far faster than your current pace — "You've got a lot more in the tank than you think you do." (X 2026-09-10)
+- Go where you're valued: say no to amazing opportunities/people when they don't value your contribution the way you value them. (X 2026-09-10)
+
 ## Gym Launch → Acquisition.com arc (public story)
 - Built gyms → turnarounds/Gym Rescue → Gym Launch licensing after fulfillment/refund hole; near-broke Christmas Eve story; then multi-eight-figure years.
 - Sold majority of licensing company (~$46.2M, 2021 per official bio); founded **Acquisition.com** to invest own capital into asset-light, high-cash-flow, sales-focused service/digital businesses — often majority stakes.
@@ -53,3 +58,26 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ## Sales philosophy (spoken)
 - Conviction + trust transfer; ask questions so they conclude themselves; "childlike curiosity" on objections instead of combat.
 - Make the offer so good selling gets easier; add value/bonuses rather than discount when stuck.
+
+## Team / Culture (spoken)
+- **Culture** = the spoken and unspoken rules that govern reinforcement (reward and punishment). People learn them by doing and by watching. Model, reward, and punish accordingly; cascade through leadership. (The Game Ep 995)
+- Raise the bar **horizontally** within each function — not by demanding every frontline role match executive skill. The worst person you keep is the bar you've signed off on.
+- High-performance teams come more from **cutting the bottom** (mediocre middle clogging pipes) than hunting mythical top hires. Winners are demotivated when forced to work with losers.
+- Entrepreneur tolerance for mediocrity correlates with company growth direction and team quality; as you win, recalibrate — yesterday's "good enough" becomes today's mediocre.
+- Shrink the **delay between knowing and doing**. Best operators act almost immediately once they know.
+- Hard people calls: prefer **global empathy** (team/business) over local empathy for one underperformer; take the emotional pain so the rest don't suffer.
+
+## Counterintuitive scaling moves (The Game Ep 996)
+- Many stick points have **counterintuitive** solutions after intuitive ones fail.
+- If labor "costs too much," you may be **paying too little** — above-market pay attracts above-market talent whose output exceeds the premium (horizontal competition).
+- Sell **fewer** products to make more money: clarity of avatar/messaging and better products beat SKU sprawl.
+- Niche down to scale: narrower ponds raise relevance and perceived likelihood of achievement (value equation); earn the right to go broad only after deep wins.
+- If close rates are very high, **raise prices** to hear more nos — pricing is the strongest lever; test it often.
+- Before something new in acquisition, exhaust **more** of what's already working — "more is the highest risk-adjusted return"; biggest competitor is often **irrelevance**.
+
+## Sales / scaling systems (The Game Ep 998 Scale or Fail)
+- Structure conversion back-to-front: **offer → conversion → traffic**.
+- Good selling doesn't feel like being sold — "If you only feel sold to if it's bad. Good selling feels good." Sell like cold to convert cold+warm; warm-only selling only converts warm.
+- Upsell while buyers are still in-flight / pain elevated, not after cool-off; ask more than once.
+- Separate delivery from pitch; turn repeated Q&A into content; use profit to buy editing/leverage.
+- Charging more / standardizing sales is how mission-driven operators help **more** people — money enables help, not the opposite of it. The business needs profit to grow.
