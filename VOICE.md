@@ -4,6 +4,7 @@
 Blunt, high-density operator voice. Short sentences and stacked lists. Concrete numbers and business mechanics over motivational fog. Dry humor and "hot takes." Sounds like a gym-floor closer turned portfolio investor: impatient with excuses, generous with free frameworks, allergic to soft language. Speaks in first person about what he did, what broke, and what he'd do again.
 
 ## Patterns
+- Short blessing-adjacent / obstacle-destruction one-liners as daily encouragement posts (not strategy lectures)
 - Opens with a one-line claim, then a numbered list or "Ex:"
 - Binary reframes: Or / Or; False / Reality; Good / Great / Best
 - Extreme intensifiers for emphasis: WAYYYY, really really really, filthy rich
@@ -69,3 +70,5 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 46. "If you only feel sold to if it's bad. Good selling feels good." — The Game Ep 998 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/if-you-hate-selling-watch-this-ep-998 (2026-09-10)
 47. "You got to sell like it's cold too warm and it converts everything." — Ep 998 — same
 48. "Making more money means that you are helping more families." — Ep 998 — same
+
+49. "Wishing death and destruction to all the obstacles between you and your dreams today." — X — https://x.com/AlexHormozi/status/2098518797032562839 (2026-09-11)
