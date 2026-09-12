@@ -81,3 +81,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Upsell while buyers are still in-flight / pain elevated, not after cool-off; ask more than once.
 - Separate delivery from pitch; turn repeated Q&A into content; use profit to buy editing/leverage.
 - Charging more / standardizing sales is how mission-driven operators help **more** people — money enables help, not the opposite of it. The business needs profit to grow.
+
+## Daily encouragement / obstacle framing (X 2026-09-11)
+- Public feed sometimes drops a one-line blessing-adjacent wish that enemies of the dream get destroyed — motivational register, not a new business framework. Prefer pairing with operator frameworks elsewhere when advising.
