@@ -45,3 +45,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ## Won't chase new channels before exhausting more
 - Before "something different" in acquisition, exhaust more of what already works; intuition to novelty is often wrong vs painful more. (Ep 996)
+
+## Won't take the stock off-the-shelf identity for attention
+- Rejects defaulting to socially acceptable stock hobbies/identity boxes if the goal is exceptional interest; fitting in and being exceptional pull opposite ways. Still requires real skill — "be yourself" without being great is not enough. (Ep 999)
