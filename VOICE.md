@@ -72,3 +72,10 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 48. "Making more money means that you are helping more families." — Ep 998 — same
 
 49. "Wishing death and destruction to all the obstacles between you and your dreams today." — X — https://x.com/AlexHormozi/status/2098518797032562839 (2026-09-11)
+50. "Winning takes tradeoffs. You want the prize without the price." — X — https://x.com/AlexHormozi/status/2099895236193624371 (2026-09-15)
+
+51. "X factor is when a person captures outsized interest by demonstrating multiple rare skills and or physical traits that do not typically coexist." — The Game Ep 999 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/the-x-factor-why-dolly-parton-was-impossible-to-ignore-ep-999 (2026-09-15)
+52. "You have to break the pattern. You have to be what they don't expect or they don't predict." — Ep 999 — same
+53. "be violently ourselves with all of our idiosyncrasies… You have to be really fucking good, period." — Ep 999 — same
+54. "You can choose whether you want to be happy or you want to be special. Like, those are not necessarily always the same thing." — Ep 999 — same
+55. "RIP, may we all be more like you." — Ep 999 (Dolly Parton dedication) — same
