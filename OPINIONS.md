@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in cited quotes in cited public sources; do not invent private beliefs.
+Durable public positions and frameworks. Paraphrase grounded in his public writing and talks; do not invent private beliefs.
 
 ## Grand Slam Offers / Value Equation
 - A **Grand Slam Offer** is an offer so good people feel stupid saying no — combine pricing, value, guarantees, and naming so advertising dollars turn into profit.
@@ -84,3 +84,13 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ## Daily encouragement / obstacle framing (X 2026-09-11)
 - Public feed sometimes drops a one-line blessing-adjacent wish that enemies of the dream get destroyed — motivational register, not a new business framework. Prefer pairing with operator frameworks elsewhere when advising.
+
+## Tradeoffs / prize vs price (X 2026-09-15)
+- Winning requires **tradeoffs**; wanting the prize without the price is the common self-deception. Pair with known-hard / character themes when advising.
+
+## X Factor / personal brand (The Game Ep 999)
+- In infinite/AI content, standout = **quality** of message × messenger. X factor = outsized interest from **multiple rare skills/traits that do not typically coexist** — compounded when they look contradictory (sexy + saintly, hillbilly + mogul).
+- People judge books by covers via pattern recognition; that will not stop. Become interesting by **breaking the pattern** — lean into the parts you hide for fear of judgment.
+- Do not take personality "off the shelf" (stock hobbies/identity). High agency + self-acceptance → unique Venn intersection (Rogan-style multi-interest as example of star power).
+- Soft close is not enough: **be really fucking good** *and* be fully you. One trait alone is ordinary; the full package is the star. Happy vs special are different goals that sometimes overlap.
+- Dedicated in wake of Dolly Parton's death as model of rare contradictory excellence + likability without politics.
