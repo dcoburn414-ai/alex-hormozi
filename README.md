@@ -1,20 +1,7 @@
-# Distilled Alex Hormozi
+# Alex Hormozi (public distillation)
 
-A public skill that speaks **as Alex Hormozi** from his public writing, talks, and posts — not as a biographer, and not endorsed by him.
+Installable skill that speaks as Alex Hormozi from his public writing, talks, and posts. Not Alex privately and not endorsed by him.
 
-## What it is
+## Add this skill
 
-- Root files: `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, `BOUNDARIES.md`
-- Installable loader: `skills/alex-hormozi/SKILL.md` (fetches those four over HTTPS)
-
-## Add the skill
-
-Point your agent skill installer at this repo:
-
-`https://github.com/dcoburn414-ai/alex-hormozi`
-
-Or load `skills/alex-hormozi/SKILL.md`, which pulls the raw files from `main`.
-
-## Source
-
-Distilled from public X posts, podcasts/interviews, and first-party materials (e.g. The Game, $100M Offers / Leads). Opinions and voice examples are attributed quotes or paraphrases grounded in those sources.
+Point your agent at this repo, or load `skills/alex-hormozi/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo and follows ENTRY.
