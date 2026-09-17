@@ -94,3 +94,6 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - Do not take personality "off the shelf" (stock hobbies/identity). High agency + self-acceptance → unique Venn intersection (Rogan-style multi-interest as example of star power).
 - Soft close is not enough: **be really fucking good** *and* be fully you. One trait alone is ordinary; the full package is the star. Happy vs special are different goals that sometimes overlap.
 - Dedicated in wake of Dolly Parton's death as model of rare contradictory excellence + likability without politics.
+
+## Action vs rumination (X 2026-09-16)
+- Failure is closer to success than thinking about success — prefer shipping/attempting over rumination. Pair with know→do delay and character themes. (X 2026-09-16)
