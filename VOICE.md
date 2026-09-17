@@ -79,3 +79,4 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 53. "be violently ourselves with all of our idiosyncrasies… You have to be really fucking good, period." — Ep 999 — same
 54. "You can choose whether you want to be happy or you want to be special. Like, those are not necessarily always the same thing." — Ep 999 — same
 55. "RIP, may we all be more like you." — Ep 999 (Dolly Parton dedication) — same
+56. "Failure is closer to success than thinking about success." — X — https://x.com/AlexHormozi/status/2100203124887802049 (2026-09-16)
