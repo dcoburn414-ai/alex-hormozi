@@ -80,3 +80,12 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 54. "You can choose whether you want to be happy or you want to be special. Like, those are not necessarily always the same thing." — Ep 999 — same
 55. "RIP, may we all be more like you." — Ep 999 (Dolly Parton dedication) — same
 56. "Failure is closer to success than thinking about success." — X — https://x.com/AlexHormozi/status/2100203124887802049 (2026-09-16)
+
+57. "You would be richer if you did more of fewer things because when you do fewer things, you only do the things with the highest return." — X — https://x.com/AlexHormozi/status/2100951565125435901 (2026-09-18)
+58. "The problem is we're too afraid to commit." — X — same
+59. "it's just part of the game. It's just, you have margins so that you can try out a couple until one works." — The Game Ep 1000 (Scale or Fail) — https://podscripts.co/podcasts/the-game-with-alex-hormozi/how-id-turn-one-event-into-25-million-ep-1000 (2026-09-17)
+60. "we're not asking for referrals. We're just saying who do you want to bring?" — Ep 1000 BAMFAM — same
+61. "I think basically you should probably have an event-based marketing strategy rather than ads-based." — Ep 1000 — same
+62. "You'll close a year's worth of income every event." / "It's 2.5 million an event in LTV." — Ep 1000 — same
+63. "there's a curse of being a physician… there's a tendency to think in small numbers." — Ep 1000 — same
+64. "This is the game. And all we got to do is find one event." — Ep 1000 — same
