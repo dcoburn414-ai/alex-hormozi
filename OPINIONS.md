@@ -97,3 +97,14 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 
 ## Action vs rumination (X 2026-09-16)
 - Failure is closer to success than thinking about success — prefer shipping/attempting over rumination. Pair with know→do delay and character themes. (X 2026-09-16)
+
+## Focus / fewer things (X 2026-09-18)
+- You get richer by doing **more of fewer things** — fewer → only highest-return work → more of that → more money. The blocker is fear of **commitment**. Pair with tradeoffs / know→do.
+
+## Scale or Fail / event demand gen (The Game Ep 1000)
+- For high-trust / high-ticket (e.g. concierge healthcare): prefer **event-based demand** over pure ads funnels; one strong event can print a year's income / multi-million LTV.
+- **BAMFAM** (book a meeting from a meeting): bake "who are you bringing next time?" into every treatment touch — assumed plus-ones beat soft referral asks; marginal cost of the seat is near zero.
+- Referral offers should be **social-capital positive** and high perceived value (year of service / big treatment), not tiny credits existing customers ignore.
+- Bad agency spend is **cost of doing business** if margins allow trying until one works — don't treat one failed hire as proof agencies suck.
+- Physician / expert-operator trap: golden handcuffs + small-number thinking vs betting event spend against LTV. Once an event works, put it on the permanent calendar and sponsor yearly.
+- Workshop funnel variant: Meta ads → paid/cheap one-day workshop (card on file) → VSL → in-person close.
