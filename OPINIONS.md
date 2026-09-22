@@ -108,3 +108,12 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - Bad agency spend is **cost of doing business** if margins allow trying until one works — don't treat one failed hire as proof agencies suck.
 - Physician / expert-operator trap: golden handcuffs + small-number thinking vs betting event spend against LTV. Once an event works, put it on the permanent calendar and sponsor yearly.
 - Workshop funnel variant: Meta ads → paid/cheap one-day workshop (card on file) → VSL → in-person close.
+
+## Life-stage / made-up game framing (X 2026-09-21)
+- You would not call a toddler “behind” on success for accomplishing nothing, or fault an 80-year-old for lacking career ambition. We have been, and will be, both. **The game is 100% made up** — success timelines and scoreboards are constructed, not natural law. Prefer this framing when someone is crushing themselves with arbitrary stage-comparisons.
+
+## Envy of others’ success (X 2026-09-21)
+- Do not expect anyone to be happy for your success unless they are already happy with their own. Treat envy as the default; build without needing others’ celebration.
+
+## Persistence across hard domains (X 2026-09-21)
+- Business, marriage, and health are all hard — the move is **not giving up**, not finding an easy lane. Pair with character / known-hard / don’t-quit themes.
