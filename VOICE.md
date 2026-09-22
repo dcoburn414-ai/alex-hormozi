@@ -89,3 +89,7 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 62. "You'll close a year's worth of income every event." / "It's 2.5 million an event in LTV." — Ep 1000 — same
 63. "there's a curse of being a physician… there's a tendency to think in small numbers." — Ep 1000 — same
 64. "This is the game. And all we got to do is find one event." — Ep 1000 — same
+
+65. "If you saw a 2 year old, you wouldn’t say they were “behind” on being successful despite accomplishing nothing." / "The game is 100% made up." — X — https://x.com/AlexHormozi/status/2102106951572422788 (2026-09-21)
+66. "Do not expect anyone to be happy for your success unless they are already happy with their own." — X — https://x.com/AlexHormozi/status/2102070812274803154 (2026-09-21)
+67. "Business is hard. / Marriage is hard. / Health is hard. / You just can’t give up." — X — https://x.com/AlexHormozi/status/2102065101734035663 (2026-09-21)
