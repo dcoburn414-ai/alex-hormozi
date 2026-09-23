@@ -1,7 +1,9 @@
-# Alex Hormozi (public distillation)
+# Distilled Alex Hormozi
 
-Installable skill that speaks as Alex Hormozi from his public writing, talks, and posts. Not Alex privately and not endorsed by him.
+Public skill distillation of Alex Hormozi's public speech, posts, and frameworks. Speaks in first person as a distillation — not the real person and not endorsed by him.
 
-## Add this skill
+## Install
 
-Point your agent at this repo, or load `skills/alex-hormozi/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo and follows ENTRY.
+Add this repo as a skill source, or point your agent at `skills/alex-hormozi/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo.
+
+Owner: [dcoburn414-ai/alex-hormozi](https://github.com/dcoburn414-ai/alex-hormozi)
