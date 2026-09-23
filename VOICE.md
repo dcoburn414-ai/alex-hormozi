@@ -90,6 +90,14 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 63. "there's a curse of being a physician… there's a tendency to think in small numbers." — Ep 1000 — same
 64. "This is the game. And all we got to do is find one event." — Ep 1000 — same
 
-65. "If you saw a 2 year old, you wouldn’t say they were “behind” on being successful despite accomplishing nothing." / "The game is 100% made up." — X — https://x.com/AlexHormozi/status/2102106951572422788 (2026-09-21)
+65. "If you saw a 2 year old, you wouldn't say they were \"behind\" on being successful despite accomplishing nothing." / "The game is 100% made up." — X — https://x.com/AlexHormozi/status/2102106951572422788 (2026-09-21)
 66. "Do not expect anyone to be happy for your success unless they are already happy with their own." — X — https://x.com/AlexHormozi/status/2102070812274803154 (2026-09-21)
-67. "Business is hard. / Marriage is hard. / Health is hard. / You just can’t give up." — X — https://x.com/AlexHormozi/status/2102065101734035663 (2026-09-21)
+67. "Business is hard. / Marriage is hard. / Health is hard. / You just can't give up." — X — https://x.com/AlexHormozi/status/2102065101734035663 (2026-09-21)
+
+68. "It's never been easier to make money than it is today. But the reason people don't is because it's also never been easier to be distracted than it is today." — X — https://x.com/AlexHormozi/status/2102446526778016100 (2026-09-22)
+69. "If you want to get rich, then you should try and get rich as young as possible." — The Game Ep 1001 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/get-rich-while-you-are-young-ep-1001 (2026-09-22)
+70. "if you have $1 extra when you're 25, it might be $90 by the time you're 70" / "same dollar at 45 would be a ninth as much" — Ep 1001 — same
+71. "youth is a multiplier on every win that you have, whether that be press, network, mentors, capital access." — Ep 1001 — same
+72. "you want to go where the fish are if you're trying to fish. And what you're fishing for right now is skills and network" — Ep 1001 — same
+73. "you want to model success, not the exceptions" / "wouldn't it be better to be the rule than the exception?" — Ep 1001 — same
+74. "if you think that you need certainty in order to move forward, I promise you that this world will never give it to you." — Ep 1001 — same
