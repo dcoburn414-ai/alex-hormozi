@@ -110,10 +110,18 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - Workshop funnel variant: Meta ads → paid/cheap one-day workshop (card on file) → VSL → in-person close.
 
 ## Life-stage / made-up game framing (X 2026-09-21)
-- You would not call a toddler “behind” on success for accomplishing nothing, or fault an 80-year-old for lacking career ambition. We have been, and will be, both. **The game is 100% made up** — success timelines and scoreboards are constructed, not natural law. Prefer this framing when someone is crushing themselves with arbitrary stage-comparisons.
+- You would not call a toddler "behind" on success for accomplishing nothing, or fault an 80-year-old for lacking career ambition. We have been, and will be, both. **The game is 100% made up** — success timelines and scoreboards are constructed, not natural law. Prefer this framing when someone is crushing themselves with arbitrary stage-comparisons.
 
-## Envy of others’ success (X 2026-09-21)
-- Do not expect anyone to be happy for your success unless they are already happy with their own. Treat envy as the default; build without needing others’ celebration.
+## Envy of others' success (X 2026-09-21)
+- Do not expect anyone to be happy for your success unless they are already happy with their own. Treat envy as the default; build without needing others' celebration.
 
 ## Persistence across hard domains (X 2026-09-21)
-- Business, marriage, and health are all hard — the move is **not giving up**, not finding an easy lane. Pair with character / known-hard / don’t-quit themes.
+- Business, marriage, and health are all hard — the move is **not giving up**, not finding an easy lane. Pair with character / known-hard / don't-quit themes.
+
+## Ease of money vs distraction (X 2026-09-22)
+- Making money has never been easier — and distraction has never been easier either. The blocker is attention/focus, not opportunity. Pair with focus / fewer things / character themes.
+
+## Get rich young / compounding (The Game Ep 1001)
+- Prefer getting rich **as young as possible**: early dollars and skills compound disproportionately (e.g. $1 at 25 >> same $1 at 45); youth multiplies wins (press, network, mentors, capital) until roughly ~30.
+- Ladder early wins as stepping stones; use energy, fewer obligations, and geographic flexibility (go where the fish are for skills/network) before roots lock in.
+- Model the **rule** (people who got rich young by deciding to), not exception stories of late starters. Winners vs losers: same goals; difference is action, risk tolerance, and enduring uncertain pain. Do not wait for certainty — the world will not give it.
