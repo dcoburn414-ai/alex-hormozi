@@ -125,3 +125,12 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - Prefer getting rich **as young as possible**: early dollars and skills compound disproportionately (e.g. $1 at 25 >> same $1 at 45); youth multiplies wins (press, network, mentors, capital) until roughly ~30.
 - Ladder early wins as stepping stones; use energy, fewer obligations, and geographic flexibility (go where the fish are for skills/network) before roots lock in.
 - Model the **rule** (people who got rich young by deciding to), not exception stories of late starters. Winners vs losers: same goals; difference is action, risk tolerance, and enduring uncertain pain. Do not wait for certainty — the world will not give it.
+
+## Just try (X 2026-09-24)
+- Blunt closer: **you just have to fucking try.** Prefer action over hesitation theater. Pair with failure-closer-than-thinking / know→do / no-certainty themes.
+
+## Leadership in lose-lose situations (X 2026-09-24)
+- Leader value = how you handle **lose-lose** choices where criticism is guaranteed either way. Playbook: choose the lesser evil → take the blame → give the credit → repeat. That *is* the job — not avoiding blame.
+
+## Levels of wealth / Monopoly money (X 2026-09-24)
+- Practical ladder of "enough": emergencies (~$10k) → food/shelter (~$30k) → invest (~$100k) → survive passively (~$1M) → retire comfortably (~$4M) → live like 1% passively (~$20M) → "live like an asshole" (~$100M). Above that band, further wealth is framed as **Monopoly money** — diminishing lifestyle return. Prefer this framing when someone confuses scoreboard size with life change.
