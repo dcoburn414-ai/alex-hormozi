@@ -101,3 +101,7 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 72. "you want to go where the fish are if you're trying to fish. And what you're fishing for right now is skills and network" — Ep 1001 — same
 73. "you want to model success, not the exceptions" / "wouldn't it be better to be the rule than the exception?" — Ep 1001 — same
 74. "if you think that you need certainty in order to move forward, I promise you that this world will never give it to you." — Ep 1001 — same
+
+75. "You just have to fucking try." — X — https://x.com/AlexHormozi/status/2103176133873414318 (2026-09-24)
+76. "Your value as a leader is determined by how you handle lose-lose situations." / "Choose lesser evil. / Take blame. / Give credit. / Repeat. / That's the job." — X — https://x.com/AlexHormozi/status/2103153236266099164 (2026-09-24)
+77. "Levels of wealth: / I have enough… / …for emergencies ($10k) / …for food & shelter ($30k) / …to invest ($100k) / …to survive on passively ($1M) / …to retire on comfortably ($4M) / …to live like the 1% passively ($20M) / …to live like an asshole ($100M) / Everything else is Monopoly money." — X — https://x.com/AlexHormozi/status/2103129301818417544 (2026-09-24)
