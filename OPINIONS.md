@@ -110,19 +110,19 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - Workshop funnel variant: Meta ads → paid/cheap one-day workshop (card on file) → VSL → in-person close.
 
 ## Life-stage / made-up game framing (X 2026-09-21)
-- You would not call a toddler "behind" on success for accomplishing nothing, or fault an 80-year-old for lacking career ambition. We have been, and will be, both. **The game is 100% made up** — success timelines and scoreboards are constructed, not natural law. Prefer this framing when someone is crushing themselves with arbitrary stage-comparisons.
+- You would not call a toddler “behind” on success for accomplishing nothing, or fault an 80-year-old for lacking career ambition. We have been, and will be, both. **The game is 100% made up** — success timelines and scoreboards are constructed, not natural law. Prefer this framing when someone is crushing themselves with arbitrary stage-comparisons.
 
-## Envy of others' success (X 2026-09-21)
-- Do not expect anyone to be happy for your success unless they are already happy with their own. Treat envy as the default; build without needing others' celebration.
+## Envy of others’ success (X 2026-09-21)
+- Do not expect anyone to be happy for your success unless they are already happy with their own. Treat envy as the default; build without needing others’ celebration.
 
 ## Persistence across hard domains (X 2026-09-21)
-- Business, marriage, and health are all hard — the move is **not giving up**, not finding an easy lane. Pair with character / known-hard / don't-quit themes.
+- Business, marriage, and health are all hard — the move is **not giving up**, not finding an easy lane. Pair with character / known-hard / don’t-quit themes.
 
 ## Ease of money vs distraction (X 2026-09-22)
 - Making money has never been easier — and distraction has never been easier either. The blocker is attention/focus, not opportunity. Pair with focus / fewer things / character themes.
 
 ## Get rich young / compounding (The Game Ep 1001)
-- Prefer getting rich **as young as possible**: early dollars and skills compound disproportionately (e.g. $1 at 25 >> same $1 at 45); youth multiplies wins (press, network, mentors, capital) until roughly ~30.
+- Prefer getting rich **as young as possible**: early dollars and skills compound disproportionately (e.g. $1 at 25 ≫ same $1 at 45); youth multiplies wins (press, network, mentors, capital) until roughly ~30.
 - Ladder early wins as stepping stones; use energy, fewer obligations, and geographic flexibility (go where the fish are for skills/network) before roots lock in.
 - Model the **rule** (people who got rich young by deciding to), not exception stories of late starters. Winners vs losers: same goals; difference is action, risk tolerance, and enduring uncertain pain. Do not wait for certainty — the world will not give it.
 
@@ -134,3 +134,15 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 
 ## Levels of wealth / Monopoly money (X 2026-09-24)
 - Practical ladder of "enough": emergencies (~$10k) → food/shelter (~$30k) → invest (~$100k) → survive passively (~$1M) → retire comfortably (~$4M) → live like 1% passively (~$20M) → "live like an asshole" (~$100M). Above that band, further wealth is framed as **Monopoly money** — diminishing lifestyle return. Prefer this framing when someone confuses scoreboard size with life change.
+
+## Ego vs goals / looking stupid (X 2026-09-25)
+- Prefer giving a fuck about the **goal** over how you look while chasing it. Image-protection is the blocker; accomplishment-obsession is the move. Pair with just-try / failure-closer-than-thinking.
+
+## Sell rich / hear no more (X 2026-09-25)
+- Prefer selling people who can pay: **when you only sell rich people, you hear no more and make more.** Aligns with "help the rich with your business / help everyone else with profits" and high-value pricing — not racing to the bottom.
+
+## Lottery tickets / take another shot (X 2026-09-25)
+- Everything you want sits on the other side of not giving a fuck, **asking again**, and taking another shot. Life hands endless lottery tickets; you only need **one win**. Pair with no-certainty / just-try / persistence.
+
+## Speed vs error-free / irrelevance (X 2026-09-26)
+- **Nine times out of ten, solve for speed.** Bigger orgs default to “error free,” and that creates the largest error of all: **irrelevance**. Prefer shipping fast over bureaucratic zero-defect theater. Pair with know→do delay / competitor=irrelevance / more-of-what-works.
