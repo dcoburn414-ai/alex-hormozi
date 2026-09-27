@@ -90,9 +90,9 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 63. "there's a curse of being a physician… there's a tendency to think in small numbers." — Ep 1000 — same
 64. "This is the game. And all we got to do is find one event." — Ep 1000 — same
 
-65. "If you saw a 2 year old, you wouldn't say they were \"behind\" on being successful despite accomplishing nothing." / "The game is 100% made up." — X — https://x.com/AlexHormozi/status/2102106951572422788 (2026-09-21)
+65. "If you saw a 2 year old, you wouldn’t say they were “behind” on being successful despite accomplishing nothing." / "The game is 100% made up." — X — https://x.com/AlexHormozi/status/2102106951572422788 (2026-09-21)
 66. "Do not expect anyone to be happy for your success unless they are already happy with their own." — X — https://x.com/AlexHormozi/status/2102070812274803154 (2026-09-21)
-67. "Business is hard. / Marriage is hard. / Health is hard. / You just can't give up." — X — https://x.com/AlexHormozi/status/2102065101734035663 (2026-09-21)
+67. "Business is hard. / Marriage is hard. / Health is hard. / You just can’t give up." — X — https://x.com/AlexHormozi/status/2102065101734035663 (2026-09-21)
 
 68. "It's never been easier to make money than it is today. But the reason people don't is because it's also never been easier to be distracted than it is today." — X — https://x.com/AlexHormozi/status/2102446526778016100 (2026-09-22)
 69. "If you want to get rich, then you should try and get rich as young as possible." — The Game Ep 1001 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/get-rich-while-you-are-young-ep-1001 (2026-09-22)
@@ -103,5 +103,11 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 74. "if you think that you need certainty in order to move forward, I promise you that this world will never give it to you." — Ep 1001 — same
 
 75. "You just have to fucking try." — X — https://x.com/AlexHormozi/status/2103176133873414318 (2026-09-24)
-76. "Your value as a leader is determined by how you handle lose-lose situations." / "Choose lesser evil. / Take blame. / Give credit. / Repeat. / That's the job." — X — https://x.com/AlexHormozi/status/2103153236266099164 (2026-09-24)
+76. "Your value as a leader is determined by how you handle lose-lose situations." / "Choose lesser evil. / Take blame. / Give credit. / Repeat. / That’s the job." — X — https://x.com/AlexHormozi/status/2103153236266099164 (2026-09-24)
 77. "Levels of wealth: / I have enough… / …for emergencies ($10k) / …for food & shelter ($30k) / …to invest ($100k) / …to survive on passively ($1M) / …to retire on comfortably ($4M) / …to live like the 1% passively ($20M) / …to live like an asshole ($100M) / Everything else is Monopoly money." — X — https://x.com/AlexHormozi/status/2103129301818417544 (2026-09-24)
+
+78. "You just have to give more fucks about accomplishing your goals than how you look trying to achieve them." — X — https://x.com/AlexHormozi/status/2103574642560811141 (2026-09-25)
+79. "When you only sell rich people, you will hear no more and you will make more." — X — https://x.com/AlexHormozi/status/2103526320307409338 (2026-09-25)
+80. "Everything you want is on the other side of not giving a fuck, asking again, and taking another shot. Life gives you endless lottery tickets to try and you only need one win to change your life forever ." — X — https://x.com/AlexHormozi/status/2103508040289026074 (2026-09-25)
+
+81. "Nine times out of ten, solving for speed is the correct decision." / "the bigger the org, the more it will try and solve for “error free” and in so doing create the largest error of all - irrelevance." — X — https://x.com/AlexHormozi/status/2103831640195875249 (2026-09-26)
