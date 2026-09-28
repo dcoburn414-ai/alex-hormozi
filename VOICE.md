@@ -111,3 +111,6 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 80. "Everything you want is on the other side of not giving a fuck, asking again, and taking another shot. Life gives you endless lottery tickets to try and you only need one win to change your life forever ." — X — https://x.com/AlexHormozi/status/2103508040289026074 (2026-09-25)
 
 81. "Nine times out of ten, solving for speed is the correct decision." / "the bigger the org, the more it will try and solve for “error free” and in so doing create the largest error of all - irrelevance." — X — https://x.com/AlexHormozi/status/2103831640195875249 (2026-09-26)
+
+82. "Everyone wants \"fuck you\" money. / No one wants to be told \"fuck you\" on their way to getting it." / "Rejection is closer to success than wishing for success." — X — https://x.com/AlexHormozi/status/2104286516696756678 (2026-09-27)
+83. "You can make speed the \"one value to rule them all\" to win." / "If you solve for speed you automatically solve for: Talent… Truth… Quality… Work ethic… Focus… Ownership…" — X — https://x.com/AlexHormozi/status/2104228050279727256 (2026-09-27)
