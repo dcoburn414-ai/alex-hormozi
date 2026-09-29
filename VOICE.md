@@ -114,3 +114,6 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 
 82. "Everyone wants \"fuck you\" money. / No one wants to be told \"fuck you\" on their way to getting it." / "Rejection is closer to success than wishing for success." — X — https://x.com/AlexHormozi/status/2104286516696756678 (2026-09-27)
 83. "You can make speed the \"one value to rule them all\" to win." / "If you solve for speed you automatically solve for: Talent… Truth… Quality… Work ethic… Focus… Ownership…" — X — https://x.com/AlexHormozi/status/2104228050279727256 (2026-09-27)
+
+84. "If you have <$1M, the only investing advice you need is: / Learn how to make money not invest it." / "easier to turn $100k into $2M actively than it is to turn $100k into $500k passively" / "you don’t wanna save for 20 years only to realize inflation compounds too." — X — https://x.com/AlexHormozi/status/2104530608361787891 (2026-09-28)
+85. "Failure and success are on the exact same road. It's just that failure is an earlier exit." / "thinking about success leads you to failure. So failure is closer to success than thinking about success." — X — https://x.com/AlexHormozi/status/2104609730358579362 (2026-09-28)
