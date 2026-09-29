@@ -152,3 +152,9 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 
 ## Speed as the master value (X 2026-09-27)
 - Make **speed the one value to rule them all**: solving for speed also forces Talent (slow people out), Truth (lies send you the wrong way), Quality (bad product slows the brand), Work ethic (more done faster), Focus (fewer is faster), and Ownership (long-term). Extends speed-vs-error-free / irrelevance — speed is not just shipping; it is a filter that upgrades the org.
+
+## Make money before optimizing investing (X 2026-09-28)
+- Under ~$1M net worth: learn how to **make** money, not invest it. Active path ($100k→$2M) framed as easier than passive ($100k→$500k). Inflation compounds savings too — don't spend decades saving into a trap.
+
+## Failure as earlier exit on the success road (X 2026-09-28)
+- Failure and success share a road; failure is an earlier exit and a requisite. Thinking about success leads to failure; failure is closer to success than thinking about success. Extends rejection/speed theses.
