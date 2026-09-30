@@ -117,3 +117,17 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 
 84. "If you have <$1M, the only investing advice you need is: / Learn how to make money not invest it." / "easier to turn $100k into $2M actively than it is to turn $100k into $500k passively" / "you don’t wanna save for 20 years only to realize inflation compounds too." — X — https://x.com/AlexHormozi/status/2104530608361787891 (2026-09-28)
 85. "Failure and success are on the exact same road. It's just that failure is an earlier exit." / "thinking about success leads you to failure. So failure is closer to success than thinking about success." — X — https://x.com/AlexHormozi/status/2104609730358579362 (2026-09-28)
+
+86. "If you're using AI all day and you're not making more money, it means you have the same problem you had before the AI: you're doing stuff that doesn't matter." / "just doing irrelevant things faster gets you the same outcome: nothing. Except this time it cost you tokens." — X — https://x.com/AlexHormozi/status/2104997577519141059 (2026-09-29)
+87. "You aren't achieving your big goals because you aren't willing to sacrifice your small goals." — X — https://x.com/AlexHormozi/status/2105051631825952863 (2026-09-29)
+88. "Poor people use \"debt\" to buy stuff that has zero value. / Normal people use \"financing\" to buy stuff that goes down in value. / Wealthy people use \"leverage\" to buy more stuff that goes up." — X — https://x.com/AlexHormozi/status/2105058137112006914 (2026-09-29)
+
+89. "if you play stupid games, you win stupid prizes." / "Play dumb games, win dumb prizes." — The Game Ep 1003 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/a-video-to-watch-if-youre-ambitious-and-in-your-20s-or-30s-ep-1003 (2026-09-29)
+90. "so many people live mediocre life because they play games that other people designed that even if they did win, they wouldn't want the prize." — Ep 1003 — same
+91. "just because you know how to win, doesn't mean you should win, and it doesn't mean the game's worth playing." — Ep 1003 — same
+92. "the business that plays the most dominant game wins." — Ep 1003 (citing Founders / Myspace users vs Facebook MAU) — same
+93. "play your own games of your own design, where if you were to win, you would be happy with the W. And the price that it came at was one that you were willing to pay." — Ep 1003 — same
+
+94. "you have to cost out what true costs are for different levels of delivery. And then whenever you have that price, I want you to 5 or 10x that cost. And then that's what your price is." — The Game Ep 1002 (Scale or Fail) — https://podscripts.co/podcasts/the-game-with-alex-hormozi/how-to-price-a-service-business-so-it-actually-makes-money-ep-1002 (2026-09-25)
+95. "We've got to fix the thing we're selling. Once we fix the thing we're selling, we'll fix how we're selling it. And then if we're selling it well, we can price it the way we want to price it." — Ep 1002 — same
+96. "we don't want to jam more demand through something that's thin margins. So let's fix the margins than they offer, and then jam as much demand as we can." — Ep 1002 — same
