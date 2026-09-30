@@ -105,7 +105,7 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - For high-trust / high-ticket (e.g. concierge healthcare): prefer **event-based demand** over pure ads funnels; one strong event can print a year's income / multi-million LTV.
 - **BAMFAM** (book a meeting from a meeting): bake "who are you bringing next time?" into every treatment touch — assumed plus-ones beat soft referral asks; marginal cost of the seat is near zero.
 - Referral offers should be **social-capital positive** and high perceived value (year of service / big treatment), not tiny credits existing customers ignore.
-- Bad agency spend is **cost of doing business** if margins allow trying until one works — don't treat one failed hire as proof agencies suck.
+- Bad agency spend is **cost of doing business** if margins allow trying until one jobs — don't treat one failed hire as proof agencies suck.
 - Physician / expert-operator trap: golden handcuffs + small-number thinking vs betting event spend against LTV. Once an event works, put it on the permanent calendar and sponsor yearly.
 - Workshop funnel variant: Meta ads → paid/cheap one-day workshop (card on file) → VSL → in-person close.
 
@@ -158,3 +158,24 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 
 ## Failure as earlier exit on the success road (X 2026-09-28)
 - Failure and success share a road; failure is an earlier exit and a requisite. Thinking about success leads to failure; failure is closer to success than thinking about success. Extends rejection/speed theses.
+
+## AI without prioritization (X 2026-09-29)
+- If AI all day still isn't making more money, the pre-AI problem remains: **doing stuff that doesn't matter**. Speeding up irrelevant work still yields nothing — now with a token bill. Prefer knowing important vs irrelevant before tooling.
+
+## Big goals require sacrificing small ones (X 2026-09-29)
+- Missed big goals usually mean unwillingness to **sacrifice small goals**. Tradeoffs are mandatory; keep the big prize, cut the small ones that compete for the same hours.
+
+## Debt vs financing vs leverage (X 2026-09-29)
+- How someone uses "loans" signals wealth: **debt** buys zero-value stuff; **financing** buys depreciating stuff; **leverage** buys more appreciating assets. Prefer leverage framing over consumer debt.
+
+## Play games you design / dominant games (The Game Ep 1003)
+- Play stupid games → stupid prizes. Tragic path: hard work + sacrifice → podium for a trophy you don't want, judged by people you don't care about.
+- Ask: Did I design this game? Do I want the prize? Am I willing to pay the global (not just local) price? Prefer **games of your own design** where a W would actually make you happy.
+- Knowing how to win ≠ should win. Comfortable games (e.g. fitness comps) can trap people for years avoiding beginner-status in higher-leverage domains (business/sales).
+- **Dominant games** beat inferior ones (e.g. Facebook MAU vs Myspace total users) — pick the metric/game whose spoils subsume the lesser game. Finite vs infinite framing: infinite-game players outlast finite-game opponents.
+
+## Service pricing / Scale or Fail (The Game Ep 1002)
+- Cost true delivery (fixed + variable by headcount), then price at **5–10× cost** (richer clients → higher end; "zip code tax"). Dynamic quote sheet (Excel/AI) so sales can instant-quote.
+- Order of ops when mispriced + demand-constrained: **fix offer → fix price → fix sales motion → then jam demand**. Don't pour demand into thin margins.
+- **Price lock** if scope (headcount/venue/date) holds; ~10% off for full prepay (cash today + avoid chase/suits against broke clients).
+- Multi-event ask early ("how many events/year?") to lift ticket (one → bundle). VSLs before each customer touch; daily sales huddles + role-play; when owner closes ~40%, have SDRs set for owner close. B2B events: booth + short speak + QR slides lead magnet ("do you host events?").
