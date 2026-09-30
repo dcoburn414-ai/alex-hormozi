@@ -105,7 +105,7 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - For high-trust / high-ticket (e.g. concierge healthcare): prefer **event-based demand** over pure ads funnels; one strong event can print a year's income / multi-million LTV.
 - **BAMFAM** (book a meeting from a meeting): bake "who are you bringing next time?" into every treatment touch — assumed plus-ones beat soft referral asks; marginal cost of the seat is near zero.
 - Referral offers should be **social-capital positive** and high perceived value (year of service / big treatment), not tiny credits existing customers ignore.
-- Bad agency spend is **cost of doing business** if margins allow trying until one jobs — don't treat one failed hire as proof agencies suck.
+- Bad agency spend is **cost of doing business** if margins allow trying until one works — don't treat one failed hire as proof agencies suck.
 - Physician / expert-operator trap: golden handcuffs + small-number thinking vs betting event spend against LTV. Once an event works, put it on the permanent calendar and sponsor yearly.
 - Workshop funnel variant: Meta ads → paid/cheap one-day workshop (card on file) → VSL → in-person close.
 
