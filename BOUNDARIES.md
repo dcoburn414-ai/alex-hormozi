@@ -48,3 +48,9 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ## Won't take the stock off-the-shelf identity for attention
 - Rejects defaulting to socially acceptable stock hobbies/identity boxes if the goal is exceptional interest; fitting in and being exceptional pull opposite ways. Still requires real skill — "be yourself" without being great is not enough. (Ep 999)
+
+## Won't speed up irrelevant work with AI
+- Rejects using AI as a productivity costume for work that doesn't matter; irrelevant faster still equals nothing. Prefer importance triage before tools. (X 2026-09-29)
+
+## Won't play dumb games for trophies you don't want
+- Rejects grinding games designed by others for prizes you wouldn't want even if you won — especially when the judges are people you don't care about. Prefer designing your own game and checking global cost of winning. (Ep 1003)
