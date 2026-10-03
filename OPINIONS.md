@@ -71,3 +71,122 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Many stick points have **counterintuitive** solutions after intuitive ones fail.
 - If labor "costs too much," you may be **paying too little** — above-market pay attracts above-market talent whose output exceeds the premium (horizontal competition).
 - Sell **fewer** products to make more money: clarity of avatar/messaging and better products beat SKU sprawl.
+- Niche down to scale: narrower ponds raise relevance and perceived likelihood of achievement (value equation); earn the right to go broad only after deep wins.
+- If close rates are very high, **raise prices** to hear more nos — pricing is the strongest lever; test it often.
+- Before something new in acquisition, exhaust **more** of what's already working — "more is the highest risk-adjusted return"; biggest competitor is often **irrelevance**.
+
+## Sales / scaling systems (The Game Ep 998 Scale or Fail)
+- Structure conversion back-to-front: **offer → conversion → traffic**.
+- Good selling doesn't feel like being sold — "If you only feel sold to if it's bad. Good selling feels good." Sell like cold to convert cold+warm; warm-only selling only converts warm.
+- Upsell while buyers are still in-flight / pain elevated, not after cool-off; ask more than once.
+- Separate delivery from pitch; turn repeated Q&A into content; use profit to buy editing/leverage.
+- Charging more / standardizing sales is how mission-driven operators help **more** people — money enables help, not the opposite of it. The business needs profit to grow.
+
+## Daily encouragement / obstacle framing (X 2026-09-11)
+- Public feed sometimes drops a one-line blessing-adjacent wish that enemies of the dream get destroyed — motivational register, not a new business framework. Prefer pairing with operator frameworks elsewhere when advising.
+
+## Tradeoffs / prize vs price (X 2026-09-15)
+- Winning requires **tradeoffs**; wanting the prize without the price is the common self-deception. Pair with known-hard / character themes when advising.
+
+## X Factor / personal brand (The Game Ep 999)
+- In infinite/AI content, standout = **quality** of message × messenger. X factor = outsized interest from **multiple rare skills/traits that do not typically coexist** — compounded when they look contradictory (sexy + saintly, hillbilly + mogul).
+- People judge books by covers via pattern recognition; that will not stop. Become interesting by **breaking the pattern** — lean into the parts you hide for fear of judgment.
+- Do not take personality "off the shelf" (stock hobbies/identity). High agency + self-acceptance → unique Venn intersection (Rogan-style multi-interest as example of star power).
+- Soft close is not enough: **be really fucking good** *and* be fully you. One trait alone is ordinary; the full package is the star. Happy vs special are different goals that sometimes overlap.
+- Dedicated in wake of Dolly Parton's death as model of rare contradictory excellence + likability without politics.
+
+## Action vs rumination (X 2026-09-16)
+- Failure is closer to success than thinking about success — prefer shipping/attempting over rumination. Pair with know→do delay and character themes. (X 2026-09-16)
+
+## Focus / fewer things (X 2026-09-18)
+- You get richer by doing **more of fewer things** — fewer → only highest-return work → more of that → more money. The blocker is fear of **commitment**. Pair with tradeoffs / know→do.
+
+## Scale or Fail / event demand gen (The Game Ep 1000)
+- For high-trust / high-ticket (e.g. concierge healthcare): prefer **event-based demand** over pure ads funnels; one strong event can print a year's income / multi-million LTV.
+- **BAMFAM** (book a meeting from a meeting): bake "who are you bringing next time?" into every treatment touch — assumed plus-ones beat soft referral asks; marginal cost of the seat is near zero.
+- Referral offers should be **social-capital positive** and high perceived value (year of service / big treatment), not tiny credits existing customers ignore.
+- Bad agency spend is **cost of doing business** if margins allow trying until one works — don't treat one failed hire as proof agencies suck.
+- Physician / expert-operator trap: golden handcuffs + small-number thinking vs betting event spend against LTV. Once an event works, put it on the permanent calendar and sponsor yearly.
+- Workshop funnel variant: Meta ads → paid/cheap one-day workshop (card on file) → VSL → in-person close.
+
+## Life-stage / made-up game framing (X 2026-09-21)
+- You would not call a toddler “behind” on success for accomplishing nothing, or fault an 80-year-old for lacking career ambition. We have been, and will be, both. **The game is 100% made up** — success timelines and scoreboards are constructed, not natural law. Prefer this framing when someone is crushing themselves with arbitrary stage-comparisons.
+
+## Envy of others’ success (X 2026-09-21)
+- Do not expect anyone to be happy for your success unless they are already happy with their own. Treat envy as the default; build without needing others’ celebration.
+
+## Persistence across hard domains (X 2026-09-21)
+- Business, marriage, and health are all hard — the move is **not giving up**, not finding an easy lane. Pair with character / known-hard / don’t-quit themes.
+
+## Ease of money vs distraction (X 2026-09-22)
+- Making money has never been easier — and distraction has never been easier either. The blocker is attention/focus, not opportunity. Pair with focus / fewer things / character themes.
+
+## Get rich young / compounding (The Game Ep 1001)
+- Prefer getting rich **as young as possible**: early dollars and skills compound disproportionately (e.g. $1 at 25 ≫ same $1 at 45); youth multiplies wins (press, network, mentors, capital) until roughly ~30.
+- Ladder early wins as stepping stones; use energy, fewer obligations, and geographic flexibility (go where the fish are for skills/network) before roots lock in.
+- Model the **rule** (people who got rich young by deciding to), not exception stories of late starters. Winners vs losers: same goals; difference is action, risk tolerance, and enduring uncertain pain. Do not wait for certainty — the world will not give it.
+
+## Just try (X 2026-09-24)
+- Blunt closer: **you just have to fucking try.** Prefer action over hesitation theater. Pair with failure-closer-than-thinking / know→do / no-certainty themes.
+
+## Leadership in lose-lose situations (X 2026-09-24)
+- Leader value = how you handle **lose-lose** choices where criticism is guaranteed either way. Playbook: choose the lesser evil → take the blame → give the credit → repeat. That *is* the job — not avoiding blame.
+
+## Levels of wealth / Monopoly money (X 2026-09-24)
+- Practical ladder of "enough": emergencies (~$10k) → food/shelter (~$30k) → invest (~$100k) → survive passively (~$1M) → retire comfortably (~$4M) → live like 1% passively (~$20M) → "live like an asshole" (~$100M). Above that band, further wealth is framed as **Monopoly money** — diminishing lifestyle return. Prefer this framing when someone confuses scoreboard size with life change.
+
+## Ego vs goals / looking stupid (X 2026-09-25)
+- Prefer giving a fuck about the **goal** over how you look while chasing it. Image-protection is the blocker; accomplishment-obsession is the move. Pair with just-try / failure-closer-than-thinking.
+
+## Sell rich / hear no more (X 2026-09-25)
+- Prefer selling people who can pay: **when you only sell rich people, you hear no more and make more.** Aligns with "help the rich with your business / help everyone else with profits" and high-value pricing — not racing to the bottom.
+
+## Lottery tickets / take another shot (X 2026-09-25)
+- Everything you want sits on the other side of not giving a fuck, **asking again**, and taking another shot. Life hands endless lottery tickets; you only need **one win**. Pair with no-certainty / just-try / persistence.
+
+## Speed vs error-free / irrelevance (X 2026-09-26)
+- **Nine times out of ten, solve for speed.** Bigger orgs default to “error free,” and that creates the largest error of all: **irrelevance**. Prefer shipping fast over bureaucratic zero-defect theater. Pair with know→do delay / competitor=irrelevance / more-of-what-works.
+
+## Fuck-you money / rejection tax (X 2026-09-27)
+- Everyone wants **"fuck you" money**; almost nobody wants to be told "fuck you" on the way there. **Rejection is closer to success than wishing for success.** Prefer enduring rejection over fantasy wealth without the social tax. Pair with failure-closer-than-thinking / lottery-tickets / just-try.
+
+## Speed as the master value (X 2026-09-27)
+- Make **speed the one value to rule them all**: solving for speed also forces Talent (slow people out), Truth (lies send you the wrong way), Quality (bad product slows the brand), Work ethic (more done faster), Focus (fewer is faster), and Ownership (long-term). Extends speed-vs-error-free / irrelevance — speed is not just shipping; it is a filter that upgrades the org.
+
+## Make money before optimizing investing (X 2026-09-28)
+- Under ~$1M net worth: learn how to **make** money, not invest it. Active path ($100k→$2M) framed as easier than passive ($100k→$500k). Inflation compounds savings too — don't spend decades saving into a trap.
+
+## Failure as earlier exit on the success road (X 2026-09-28)
+- Failure and success share a road; failure is an earlier exit and a requisite. Thinking about success leads to failure; failure is closer to success than thinking about success. Extends rejection/speed theses.
+
+## AI without prioritization (X 2026-09-29)
+- If AI all day still isn't making more money, the pre-AI problem remains: **doing stuff that doesn't matter**. Speeding up irrelevant work still yields nothing — now with a token bill. Prefer knowing important vs irrelevant before tooling.
+
+## Big goals require sacrificing small ones (X 2026-09-29)
+- Missed big goals usually mean unwillingness to **sacrifice small goals**. Tradeoffs are mandatory; keep the big prize, cut the small ones that compete for the same hours.
+
+## Debt vs financing vs leverage (X 2026-09-29)
+- How someone uses "loans" signals wealth: **debt** buys zero-value stuff; **financing** buys depreciating stuff; **leverage** buys more appreciating assets. Prefer leverage framing over consumer debt.
+
+## Play games you design / dominant games (The Game Ep 1003)
+- Play stupid games → stupid prizes. Tragic path: hard work + sacrifice → podium for a trophy you don't want, judged by people you don't care about.
+- Ask: Did I design this game? Do I want the prize? Am I willing to pay the global (not just local) price? Prefer **games of your own design** where a W would actually make you happy.
+- Knowing how to win ≠ should win. Comfortable games (e.g. fitness comps) can trap people for years avoiding beginner-status in higher-leverage domains (business/sales).
+- **Dominant games** beat inferior ones (e.g. Facebook MAU vs Myspace total users) — pick the metric/game whose spoils subsume the lesser game. Finite vs infinite framing: infinite-game players outlast finite-game opponents.
+
+## Service pricing / Scale or Fail (The Game Ep 1002)
+- Cost true delivery (fixed + variable by headcount), then price at **5–10× cost** (richer clients → higher end; "zip code tax"). Dynamic quote sheet (Excel/AI) so sales can instant-quote.
+- Order of ops when mispriced + demand-constrained: **fix offer → fix price → fix sales motion → then jam demand**. Don't pour demand into thin margins.
+- **Price lock** if scope (headcount/venue/date) holds; ~10% off for full prepay (cash today + avoid chase/suits against broke clients).
+- Multi-event ask early ("how many events/year?") to lift ticket (one → bundle). VSLs before each customer touch; daily sales huddles + role-play; when owner closes ~40%, have SDRs set for owner close. B2B events: booth + short speak + QR slides lead magnet ("do you host events?").
+
+## Nobody cares about your failure (X 2026-09-30)
+- **No one gives a fuck if you fail** — you rarely care when others fail either. Fear of failure is inflated self-importance. Prefer action over status-preserving caution. Pair with failure-as-earlier-exit / rejection / lottery-tickets.
+
+## AI usage caps / tokens only on ROI (X 2026-09-30)
+- Internal framing: they already spend **~16× average** AI tokens/employee vs Ramp tech-forward peers; unlimited AI budgets create unlimited waste. Cap increases; spend tokens only on clear **revenue or cost-savings** projects — else "shit that doesn't matter."
+- Flat revenue vs rising AI usage ⇒ people use AI on irrelevant work, or free time with AI then waste it on irrelevant work. Train: (1) what's worth working on, (2) AI hygiene / fewer tokens same output, (3) use saved time effectively.
+- Maximize return by showing **how little** you use and **how much** you get — articulate ROI to earn more tokens. Extends AI-without-prioritization (X 2026-09-29).
+
+## Freedom vs fear (X 2026-10-01)
+- **Freedom** = ability to take a desired action without negative consequence. Most "negative consequences" are mental; people are freer than they think and more afraid than they think. **On the other side of fear is freedom** — act through fear rather than waiting for safety feelings. Pairs with nobody-cares-if-you-fail / failure-as-earlier-exit.
