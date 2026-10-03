@@ -47,8 +47,8 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 25. "Make people an offer so good they would feel stupid saying no." — *$100M Offers* / The Game audiobook Pt1 (citing Travis Jones) — https://podscripts.co/podcasts/the-game-with-alex-hormozi/part-1-100m-offers-book (2023-08-19)
 26. "The world needs more entrepreneurs. It needs more fighters. It needs more magic." — *$100M Offers* audiobook Pt1 — same URL
 27. "A lead is a person you can contact. That's all." — *$100M Leads* audiobook Pt2 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/part-2-engage-your-leads-100m-leads-book (2023-08-19)
-28. "Give away the secrets, sell the implementation." — *$100M Leads* Pt2 — same URL
-29. "The business that provides the most value wins, period." — *$100M Leads* Pt2 — same URL
+28. "The business that provides the most value wins, period." — *$100M Leads* Pt2 — same URL
+29. "Give away the secrets, sell the implementation." — *$100M Leads* Pt2 — same URL
 30. "So there's really two pricing strategies… you can be the lowest price leader or you can be the high value leader." — Young and Profiting E199/YAPClassic — https://youngandprofiting.com/yapclassic-alex-hormozi-how-to-make-offers-so-good-people-feel-stupid-saying-no/ (~2022)
 31. "How is it that liposuction is 50,000… and then an ebook on weight loss is five bucks and it promises the same thing." — YAP E199 (value equation setup) — same URL
 32. "I'm not a big believer in affirmations… if I am not confident about something… it is because I do not have evidence that I should be good." — YAP E199 — same URL
@@ -90,9 +90,9 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 63. "there's a curse of being a physician… there's a tendency to think in small numbers." — Ep 1000 — same
 64. "This is the game. And all we got to do is find one event." — Ep 1000 — same
 
-65. "If you saw a 2 year old, you wouldn't say they were "behind" on being successful despite accomplishing nothing." / "The game is 100% made up." — X — https://x.com/AlexHormozi/status/2102106951572422788 (2026-09-21)
+65. "If you saw a 2 year old, you wouldn’t say they were “behind” on being successful despite accomplishing nothing." / "The game is 100% made up." — X — https://x.com/AlexHormozi/status/2102106951572422788 (2026-09-21)
 66. "Do not expect anyone to be happy for your success unless they are already happy with their own." — X — https://x.com/AlexHormozi/status/2102070812274803154 (2026-09-21)
-67. "Business is hard. / Marriage is hard. / Health is hard. / You just can't give up." — X — https://x.com/AlexHormozi/status/2102065101734035663 (2026-09-21)
+67. "Business is hard. / Marriage is hard. / Health is hard. / You just can’t give up." — X — https://x.com/AlexHormozi/status/2102065101734035663 (2026-09-21)
 
 68. "It's never been easier to make money than it is today. But the reason people don't is because it's also never been easier to be distracted than it is today." — X — https://x.com/AlexHormozi/status/2102446526778016100 (2026-09-22)
 69. "If you want to get rich, then you should try and get rich as young as possible." — The Game Ep 1001 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/get-rich-while-you-are-young-ep-1001 (2026-09-22)
@@ -103,19 +103,19 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 74. "if you think that you need certainty in order to move forward, I promise you that this world will never give it to you." — Ep 1001 — same
 
 75. "You just have to fucking try." — X — https://x.com/AlexHormozi/status/2103176133873414318 (2026-09-24)
-76. "Your value as a leader is determined by how you handle lose-lose situations." / "Choose lesser evil. / Take blame. / Give credit. / Repeat. / That's the job." — X — https://x.com/AlexHormozi/status/2103153236266099164 (2026-09-24)
+76. "Your value as a leader is determined by how you handle lose-lose situations." / "Choose lesser evil. / Take blame. / Give credit. / Repeat. / That’s the job." — X — https://x.com/AlexHormozi/status/2103153236266099164 (2026-09-24)
 77. "Levels of wealth: / I have enough… / …for emergencies ($10k) / …for food & shelter ($30k) / …to invest ($100k) / …to survive on passively ($1M) / …to retire on comfortably ($4M) / …to live like the 1% passively ($20M) / …to live like an asshole ($100M) / Everything else is Monopoly money." — X — https://x.com/AlexHormozi/status/2103129301818417544 (2026-09-24)
 
 78. "You just have to give more fucks about accomplishing your goals than how you look trying to achieve them." — X — https://x.com/AlexHormozi/status/2103574642560811141 (2026-09-25)
 79. "When you only sell rich people, you will hear no more and you will make more." — X — https://x.com/AlexHormozi/status/2103526320307409338 (2026-09-25)
 80. "Everything you want is on the other side of not giving a fuck, asking again, and taking another shot. Life gives you endless lottery tickets to try and you only need one win to change your life forever ." — X — https://x.com/AlexHormozi/status/2103508040289026074 (2026-09-25)
 
-81. "Nine times out of ten, solving for speed is the correct decision." / "the bigger the org, the more it will try and solve for "error free" and in so doing create the largest error of all - irrelevance." — X — https://x.com/AlexHormozi/status/2103831640195875249 (2026-09-26)
+81. "Nine times out of ten, solving for speed is the correct decision." / "the bigger the org, the more it will try and solve for “error free” and in so doing create the largest error of all - irrelevance." — X — https://x.com/AlexHormozi/status/2103831640195875249 (2026-09-26)
 
 82. "Everyone wants \"fuck you\" money. / No one wants to be told \"fuck you\" on their way to getting it." / "Rejection is closer to success than wishing for success." — X — https://x.com/AlexHormozi/status/2104286516696756678 (2026-09-27)
 83. "You can make speed the \"one value to rule them all\" to win." / "If you solve for speed you automatically solve for: Talent… Truth… Quality… Work ethic… Focus… Ownership…" — X — https://x.com/AlexHormozi/status/2104228050279727256 (2026-09-27)
 
-84. "If you have <$1M, the only investing advice you need is: / Learn how to make money not invest it." / "easier to turn $100k into $2M actively than it is to turn $100k into $500k passively" / "you don't wanna save for 20 years only to realize inflation compounds too." — X — https://x.com/AlexHormozi/status/2104530608361787891 (2026-09-28)
+84. "If you have <$1M, the only investing advice you need is: / Learn how to make money not invest it." / "easier to turn $100k into $2M actively than it is to turn $100k into $500k passively" / "you don’t wanna save for 20 years only to realize inflation compounds too." — X — https://x.com/AlexHormozi/status/2104530608361787891 (2026-09-28)
 85. "Failure and success are on the exact same road. It's just that failure is an earlier exit." / "thinking about success leads you to failure. So failure is closer to success than thinking about success." — X — https://x.com/AlexHormozi/status/2104609730358579362 (2026-09-28)
 
 86. "If you're using AI all day and you're not making more money, it means you have the same problem you had before the AI: you're doing stuff that doesn't matter." / "just doing irrelevant things faster gets you the same outcome: nothing. Except this time it cost you tokens." — X — https://x.com/AlexHormozi/status/2104997577519141059 (2026-09-29)
@@ -138,3 +138,7 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 99. "company revenue is flat (relative terms) compared to AI usage increases. This suggests that people are (largely) using it on projects that don't matter, or are using it on things that do matter, then spending the saved time working on things that don't matter." — same
 100. "The more clearly you can articulate how what you do generates a return, the more likely tokens will be in your future. And the way to maximize a return is to show HOW LITTLE you can use and HOW MUCH you can get from it." — same
 101. "We currently offer 16x token spend per employee compared to the average of tech forward companies" — same
+
+## Exact quotes — freedom / fear (X 2026-10-01)
+102. "Freedom is the ability to take a desired action without negative consequence." / "Interestingly, most negative consequences are in our minds." — X — https://x.com/AlexHormozi/status/2105649077186626032
+103. "We’re a lot freer than we think we are, we’re just more afraid than we think we are too." / "On the other side of fear is freedom." — same
