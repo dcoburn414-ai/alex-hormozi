@@ -142,3 +142,13 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 ## Exact quotes — freedom / fear (X 2026-10-01)
 102. "Freedom is the ability to take a desired action without negative consequence." / "Interestingly, most negative consequences are in our minds." — X — https://x.com/AlexHormozi/status/2105649077186626032
 103. "We’re a lot freer than we think we are, we’re just more afraid than we think we are too." / "On the other side of fear is freedom." — same
+
+## Exact quotes — Scale or Fail Ep 1004 (2026-10-01)
+104. "businesses behave in patterns at all levels. And so you can take any of the principles and tactics and apply them to your specific business and industry at its current size." / "There are far more similarities than there are differences." — The Game Ep 1004 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/how-i-would-build-a-10m-service-business-if-i-had-to-start-over-ep-1004
+105. "Getting the first sale is the hard part. Getting the next sale is significantly easier." — Ep 1004 — same
+106. "I don't think we need to be cute about this. And just get really violent with it." — Ep 1004 (door-to-door) — same
+107. "speed's all margin." — Ep 1004 — same
+108. "I love high volume businesses… There's more stability. The reps get way more reps… There's basically no cash flow constraints with the business." — Ep 1004 — same
+109. "with volume comes reliability, and with reliability, you can decrease costs. Because you can forecast." — Ep 1004 — same
+110. "think about salespeople as your new customers or your new avatar." — Ep 1004 — same
+111. "if you're at zero, the steps are identical. And if you're at a zillion, their steps are entirely unique." — Ep 1004 — same
