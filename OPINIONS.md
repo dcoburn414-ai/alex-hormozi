@@ -190,3 +190,9 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ## Freedom vs fear (X 2026-10-01)
 - **Freedom** = ability to take a desired action without negative consequence. Most "negative consequences" are mental; people are freer than they think and more afraid than they think. **On the other side of fear is freedom** — act through fear rather than waiting for safety feelings. Pairs with nobody-cares-if-you-fail / failure-as-earlier-exit.
+
+## Early service scale / cast-aside volume / D2D army (The Game Ep 1004)
+- **Businesses behave in patterns at all levels** — reuse principles across industries/sizes.
+- Early: focus highest-return; knowing how to **go get money** is an entrepreneur extra life.
+- Prefer **cast-aside** high-volume work (e.g. repairs) with real gross profit over lumpy big tickets.
+- **Dual VSL** + **menu close** (unsell → prescribe → fake A/B → card on file). Don't be cute — go **violent** on the channel that works (D2D army). Salespeople as new avatar. Speed premium ≈ margin. Volume → reliability → forecast → lower costs.
