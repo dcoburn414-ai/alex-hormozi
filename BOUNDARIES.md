@@ -60,3 +60,9 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ## Won't treat imagined consequences as hard walls on freedom
 - Most negative consequences that block action are in the mind; don't confuse fear with an actual consequence. (X 2026-10-01)
+
+## Won't be cute about acquisition when one channel works
+- When a channel already prints deals (e.g. door-to-door), refuse cute diversification — go all-in / "really violent" on what's proven; build that army before inventing new toys. (The Game Ep 1004)
+
+## Won't chase lumpy prestige work over reliable volume early
+- Prefers high-volume cast-aside work with real gross profit over feast-or-famine big tickets when early cash-flow heartbeat and reps matter more. (Ep 1004)
