@@ -192,7 +192,11 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - **Freedom** = ability to take a desired action without negative consequence. Most "negative consequences" are mental; people are freer than they think and more afraid than they think. **On the other side of fear is freedom** — act through fear rather than waiting for safety feelings. Pairs with nobody-cares-if-you-fail / failure-as-earlier-exit.
 
 ## Early service scale / cast-aside volume / D2D army (The Game Ep 1004)
-- **Businesses behave in patterns at all levels** — reuse principles across industries/sizes.
-- Early: focus highest-return; knowing how to **go get money** is an entrepreneur extra life.
-- Prefer **cast-aside** high-volume work (e.g. repairs) with real gross profit over lumpy big tickets.
-- **Dual VSL** + **menu close** (unsell → prescribe → fake A/B → card on file). Don't be cute — go **violent** on the channel that works (D2D army). Salespeople as new avatar. Speed premium ≈ margin. Volume → reliability → forecast → lower costs.
+- **Businesses behave in patterns at all levels** — more similarities than differences across industries/sizes; reuse principles/tactics at the current stage.
+- Early = resource-constrained (time + money): focalize **highest-return** work. Knowing how to **go get money** (reliable door→deal) is an entrepreneur "extra life."
+- Prefer **cast-aside** work competitors ignore if you can systemize gross profit + volume (e.g. repairs vs full replacements): high volume → stability, more sales reps, shorter cycles, fewer cash-flow headaches than lumpy big tickets.
+- **Dual VSL**: one on-property for first sale; one before second closer for upsells. VSL shape: intro → promise → proof/social proof → Old Way/New Way → objection belief-breaking → plan. More "selly"/targeted as the team scales.
+- **Menu close** script: (1) unsell what they don't need (trust), (2) prescribe what they do need, (3) fake binary choice (Mon/Tue, A/B), (4) card on file. First sale hard; proximate/upsell sale much easier — hood already popped.
+- Acquisition: don't be cute — go **violent** on the channel that already works (build a D2D army; commission math per door). Treat **salespeople as the new avatar** when founder capacity is the bottleneck.
+- Retention/LTV: VIP/maintenance membership that credits toward future repairs + review carrot; scheduled client contact. **Speed premium** (pay to jump the queue) is mostly margin — reorder work within acceptable windows.
+- Volume → reliability → forecast → lower cost basis. Near-zero steps are identical; at huge scale they become unique — early advice stays simple/sharp.
