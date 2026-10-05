@@ -152,3 +152,9 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 109. "with volume comes reliability, and with reliability, you can decrease costs. Because you can forecast." — Ep 1004 — same
 110. "think about salespeople as your new customers or your new avatar." — Ep 1004 — same
 111. "if you're at zero, the steps are identical. And if you're at a zillion, their steps are entirely unique." — Ep 1004 — same
+
+## Exact quotes — spoken, Chris Williamson clip "How To Deal With Hard Times" (2026-10-01)
+112. "bad things happen all the time, and they only become interrelated if you let it affect your behavior." — Chris Williamson clip — https://exa.ai/library/podcast/wq65cn21dg3/episode/4dsb30h876p
+113. "the person who's indestructible would have something terrible happen and then nothing would change. And I, I love that." / "the Sword of Gryffindor. It only drinks in that which makes it stronger." — same
+114. "the more I've tried to create space between how I feel and what I do, the more consistent my outcomes have been." — same
+115. "the more times I give into that excuse or that feeling, then the more superstitious I become about doing it in the future." / "the more times you do what is required to get what you want, the more times you get what you want." — same
