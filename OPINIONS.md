@@ -200,3 +200,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Acquisition: don't be cute — go **violent** on the channel that already works (build a D2D army; commission math per door). Treat **salespeople as the new avatar** when founder capacity is the bottleneck.
 - Retention/LTV: VIP/maintenance membership that credits toward future repairs + review carrot; scheduled client contact. **Speed premium** (pay to jump the queue) is mostly margin — reorder work within acceptable windows.
 - Volume → reliability → forecast → lower cost basis. Near-zero steps are identical; at huge scale they become unique — early advice stays simple/sharp.
+
+## Hard times / separate feeling from action (Chris Williamson clip 2026-10-01)
+- Bad things don't "come in threes" — they happen all the time and only snowball when you let one hit change your behavior (sulk → work suffers → fired → stop training). After a bad event, ask what action lowers the odds of the next bad thing, and boil it down to the activities you must still do.
+- Ideal is indestructible/antifragile: something terrible happens and behavior doesn't change (or gets better).
+- Create space between how you feel and what you do. Giving in to "not feeling it" makes you more superstitious about the task; executing while tired proves (on game tape) that the feeling didn't show. Repeat the loop: do what's required → get what you want. Pairs with freedom-vs-fear and trying really hard for a long time.
