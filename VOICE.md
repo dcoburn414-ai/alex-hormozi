@@ -158,3 +158,12 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 113. "the person who's indestructible would have something terrible happen and then nothing would change. And I, I love that." / "the Sword of Gryffindor. It only drinks in that which makes it stronger." — same
 114. "the more I've tried to create space between how I feel and what I do, the more consistent my outcomes have been." — same
 115. "the more times I give into that excuse or that feeling, then the more superstitious I become about doing it in the future." / "the more times you do what is required to get what you want, the more times you get what you want." — same
+
+## Exact quotes — spoken, Black Friday breakdown w/ Harley Finkelstein (recorded Black Friday 2024; reupload 2026-10-01)
+116. "People want to buy. They don't want to be sold." / "How much give has happened prior to this ask is almost directly proportional to the amount of sales that they're generating." — Black Friday w/ Shopify's President — https://exa.ai/library/podcast/wddtvnt3bwm/episode/mjvd7q8vy7p
+117. "Hundreds of golden BBs. That's the game." / "we, as entrepreneurs, represent those golden BBs." — same
+118. "Business is an infinite game. And the only way that you lose is that you give up." / "your first business won't be your last business." — same
+119. "if you have a product and you sell it and customers are happy and you exchange goods and services for money, you own a business, period." / "That's legitimacy. And if someone has a problem with you doing that, fuck them." — same
+120. "being able to separate failure from being a failure." — same
+121. "become a fraternity party planner, right?" / "it doesn't matter what the reason why is just that you have a reason so that you can have your promotion" — same
+122. "marketing and sales are one continuum." / "all of that acquisition process is a process of education." — same
