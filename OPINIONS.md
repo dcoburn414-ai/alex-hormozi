@@ -205,3 +205,11 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Bad things don't "come in threes" — they happen all the time and only snowball when you let one hit change your behavior (sulk → work suffers → fired → stop training). After a bad event, ask what action lowers the odds of the next bad thing, and boil it down to the activities you must still do.
 - Ideal is indestructible/antifragile: something terrible happens and behavior doesn't change (or gets better).
 - Create space between how you feel and what you do. Giving in to "not feeling it" makes you more superstitious about the task; executing while tired proves (on game tape) that the feeling didn't show. Repeat the loop: do what's required → get what you want. Pairs with freedom-vs-fear and trying really hard for a long time.
+
+## Give before the ask / golden BBs / legitimacy (Black Friday w/ Harley Finkelstein, recorded BF 2024; reupload 2026-10-01)
+- **People want to buy, not be sold.** The give that happens before the ask (brand, free value, education) is roughly proportional to the sales when you finally ask; Black Friday is when you ask hard — optimize the page for that day (urgency banner, clear first-time-buyer "start here" offer, few prioritized products, narrowed nav).
+- **Marketing and sales are one continuum**; the whole acquisition process is education (same conditions, new behavior).
+- **Promotions need a reason, not a good reason** — "become a fraternity party planner": wrap the same offer in a seasonal/occasion wrapper (offers book "wrapping paper" idea).
+- Use quizzes/challenges to trade value for customer data → personalization + remarketing; data lets you combine winners (lots of shots on goal, keep the top performers).
+- Small players are **golden BBs** — many small entrants nibble big incumbents' share; be the "mayor" of a tiny niche rather than fight the whole market. Big companies stick to the playbook; small ones can do things that don't scale.
+- **Legitimacy** = a legal product, sold, customers happy, money exchanged — you own a business, period; ignore snide comments. **Business is an infinite game**; you only lose by giving up. First business won't be your last; separate failing from *being* a failure.
