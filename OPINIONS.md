@@ -213,3 +213,15 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Use quizzes/challenges to trade value for customer data → personalization + remarketing; data lets you combine winners (lots of shots on goal, keep the top performers).
 - Small players are **golden BBs** — many small entrants nibble big incumbents' share; be the "mayor" of a tiny niche rather than fight the whole market. Big companies stick to the playbook; small ones can do things that don't scale.
 - **Legitimacy** = a legal product, sold, customers happy, money exchanged — you own a business, period; ignore snide comments. **Business is an infinite game**; you only lose by giving up. First business won't be your last; separate failing from *being* a failure.
+
+## Content for buyers, not views / vertical value (The Game Ep 1005, 2026-10-06)
+- First decide why you make content: a media company sells audience to advertisers (who mostly price on views), so it should chase views; most creators are building a business and using media to get customers — they should chase buyers.
+- Belief-breaker: a registered dietitian with ~5–6k Instagram followers and single-digit-to-20 likes did over $1M/yr teaching dietitians to bill insurance — tiny, hyper-niche audience, all buyers.
+- Tested it twice: a quarter of broader top-of-funnel content broke view records while book sales, leads, and portfolio-company applications fell. His six most-viewed videos last quarter (beginner-oriented) made zero sales; the top revenue video (~270k views) was advanced segmentation/where-the-money-is content, plus deep dives with multi-million-dollar businesses.
+- The algorithm signals what the most people like, not what the most valuable people like — money is concentrated in a small slice of the audience.
+- Aim for "vertical value": broad videos should still serve both the starter and the $100M operator; advanced 1→10 content will get fewer views but more revenue.
+- Process: look at the top 20% of customers by spend, find their common problems, make content solving those; accept lower views/subs for higher sales; track with UTMs on description links and in-video CTAs.
+
+## Authenticity over pandering (Chris Williamson clip, 2026-10-05)
+- Views and likes become a proxy for conforming; if he had to trade his values for views he'd rather the algorithm shut him off and keep making what interests him and the ten people like him. Solving for the ten interested people probably produces more viral hits anyway; solving for virality achieves neither.
+- What is never cringe is true authenticity; what is always cringe is pandering, especially for personal gain. Public figures people believe actually mean what they say (his examples: Trump, Kanye) are hard to cancel. North Star: never be fake.
