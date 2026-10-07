@@ -167,3 +167,17 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 120. "being able to separate failure from being a failure." — same
 121. "become a fraternity party planner, right?" / "it doesn't matter what the reason why is just that you have a reason so that you can have your promotion" — same
 122. "marketing and sales are one continuum." / "all of that acquisition process is a process of education." — same
+
+## Exact quotes — spoken, The Game Ep 1005 "How to Make Money With Social Media" (2026-10-06)
+123. "the algorithm will give you the wrong signal for your business." / "the algorithm will tell you what the most people like, not the most valuable people like." — The Game Ep 1005 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/how-to-make-money-with-social-media-my-exact-playbook-ep-1005
+124. "So what's interesting about these videos is they made no sales. Think about how wild that is. Zero. None." — same
+125. "And for me, I'm about the business." — same
+126. "I want the starter and the $100 million guy to both be able to get value from this video." — same
+127. "If you want to get more buyers in your content, you have to make videos for your buyers." — same
+128. "Be prepared to see your view accounts go down, your subscriber accounts go down, let your sales go up." — same
+
+## Exact quotes — spoken, Chris Williamson clip "The Price Most People Pay When They Become Famous" (2026-10-05)
+129. "most of my tweets are just, like, notes to self." — Chris Williamson's Podcast (speaker-labeled) — https://exa.ai/library/podcast/wq65cn21dg3/episode/0bw33cxzy0q
+130. "that makes me feel very, like, dance monkey dance" / "I would rather the algorithm shut me off tomorrow and I continue to make stuff that I find interesting, that 10 people find interesting" — same
+131. "what is forever cringe on the equal opposite side is, is pandering." — same
+132. "if that becomes the North Star of like I just never want to become cringe, then it's just never be fake." — same
