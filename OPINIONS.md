@@ -225,3 +225,26 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ## Authenticity over pandering (Chris Williamson clip, 2026-10-05)
 - Views and likes become a proxy for conforming; if he had to trade his values for views he'd rather the algorithm shut him off and keep making what interests him and the ten people like him. Solving for the ten interested people probably produces more viral hits anyway; solving for virality achieves neither.
 - What is never cringe is true authenticity; what is always cringe is pandering, especially for personal gain. Public figures people believe actually mean what they say (his examples: Trump, Kanye) are hard to cancel. North Star: never be fake.
+
+## Start before certainty / courage over perfection (X 2026-10-02, 2026-10-06)
+- You don't need to know something will work to start — only that it will work better than doing nothing. Dreams require courage, not perfection; never let anyone convince you you're too broken to pursue them. Pairs with just-try and freedom-vs-fear.
+
+## Fire fools / unyielding standards (X 2026-10-03, 2026-10-04)
+- A business grows faster from removing the low performers than from adding more smart hires. Fire fools to make room for geniuses — the ladder won't tolerate both. Extraordinary outcomes only come from unyielding standards. Extends Team / Culture (elimination, Ep 995).
+
+## Unbalanced effort for a season (X 2026-10-04 + solo Tradeoffs recording)
+- Outlandish success means working like an unyielding, unrelenting psycho for about a decade; learn the violent level of unbalanced effort you're capable of before claiming to know balance. Lock in, win, then dial in the sweet spot.
+- His gym-era mindset: not outwork everyone but **out-sacrifice anyone** — put everything on the altar (gave up Sunday football, all TV, going out; fitness and sleep suffered at times). He sacrificed his 20s and says plainly he's not claiming it's the right path for everyone.
+- Nothing great was accomplished by someone balanced; unreasonable goals take unreasonable sacrifice. A season of imbalance doesn't have to be forever. Most hyper-successful people go through a 3–5 year "Rocky montage" of getting hit in the face daily (his: ~4,000 one-on-one consultations over four years).
+- Decision method: (1) what do you actually want, (2) which path gets you closer, (3) if the logic is clear and you still won't choose, find the emotional driver. Watch for **socially acceptable shields** (e.g. college as cover for not yet winning at entrepreneurship). Name the fear to strip its power. Take a maybe over a never. The stories you tell yourself about your choices become your identity.
+
+## Hate as a leading indicator (Chris Williamson clip, 2026-10-07)
+- People want you to do well, but not better than them. As a gym owner sleeping on the gym floor everyone rooted for him; within nine months of hiring a manager the same members sneered "boss man's here." The threshold depends on the person — it came fastest from the lowest-status staff, last from the business owners doing better than him.
+- Hate isn't something to avoid; it's a requisite for and a sign of success. No one hates you from above. Critics project what they know they should be doing — you may be at the top of *their* mountain even if yours is still far off.
+- The lonely chapter (don't fit with old friends, no outcomes yet for new ones) is universal for anyone who's done something; don't bend the knee and slide back into comfortable conformity.
+- Every worthwhile goal is worthwhile because of its cost — if it were easy it'd be available to everyone. Don't resent the price tag; decide whether to pay it.
+
+## Worthiness, imposter syndrome, and truth as marketing (Chris Williamson clip, 2026-10-05)
+- Rejects "you are worthy" affirmations: the way you know you're worthy of something is that you have it. If everyone is beautiful, no one is. Step one is accepting that you suck; step two is doing something about it. Give yourself permission to suck, be unhappy, not achieve for a long time, lose friends, and be the exception so you can become exceptional.
+- Imposter syndrome is usually accurate: you feel like an imposter when you are one (teaching what you haven't done). Don't kill the voice — get the evidence that shuts it up. Doing something new isn't being an imposter unless you pretend or overclaim; "I could be wrong" stated honestly is not imposture. Not-lying ≠ telling the truth.
+- **State the facts and tell the truth** — the best marketing is truth. If the truth isn't compelling, don't lie; change the world so the facts are compelling — list what someone with that authority would have and make it your action list.
