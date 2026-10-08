@@ -181,3 +181,28 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 130. "that makes me feel very, like, dance monkey dance" / "I would rather the algorithm shut me off tomorrow and I continue to make stuff that I find interesting, that 10 people find interesting" — same
 131. "what is forever cringe on the equal opposite side is, is pandering." — same
 132. "if that becomes the North Star of like I just never want to become cringe, then it's just never be fake." — same
+
+## Exact quotes — short posts (X 2026-10-02 → 2026-10-06)
+133. "You don’t need to know it’s going to work to start, you just need to know it’s going to work better than doing nothing." — X — https://x.com/AlexHormozi/status/2105979345839816980 (2026-10-02)
+134. "Your business will grow faster from firing all the dumb people than it will from hiring more smart people." — X — https://x.com/AlexHormozi/status/2106176375950381344 (2026-10-03)
+135. "If you want to achieve outlandish success you have to be willing to work like an unyielding, unrelenting psycho for a decade." / "Lock in. Win. Then dial in the sweet spot." — X — https://x.com/AlexHormozi/status/2106759297174782276 (2026-10-04)
+136. "Hot take: You must fire fools to make room for geniuses because the ladder will not tolerate the former." / "Extraordinary outcomes only come from unyielding standards." — X — https://x.com/AlexHormozi/status/2106790803624571237 (2026-10-04)
+137. "Dreams do not require perfection, they require courage." — X — https://x.com/AlexHormozi/status/2107429582580396260 (2026-10-06)
+
+## Exact quotes — spoken, Chris Williamson clip "How To Know If You're On The Right Path" (2026-10-07)
+138. "that was when I realized that people want you to do well, but not better than them." — Chris Williamson's Podcast (speaker-labeled) — https://exa.ai/library/podcast/wq65cn21dg3/episode/m53k5pj9dv3
+139. "no one hates you from above" / "the hate is actually the light that you're on the right path." — same
+140. "you're actually at the top of their mountain. And so they start tearing you down." / "It's the chapter where you don't fit in with your own friends, but you don't have the outcomes yet to fit into a new group of friends." — same
+141. "Every worthwhile goal is worthwhile because it has a cost associated with it." / "we can't resent the price tag of the shoes that we want to buy. We just have to make the decision of whether or not we want to pay it." — same
+
+## Exact quotes — spoken, Chris Williamson clip "The First Step To Becoming Successful" (2026-10-05)
+142. "giving yourself permission to be an exception so that you can become exceptional." — Chris Williamson's Podcast (speaker-labeled) — https://exa.ai/library/podcast/wq65cn21dg3/episode/wsymdrcm3w6
+143. "the way that you know you're worthy is that you have it. That's it." / "if everyone were beautiful, then no one's beautiful." — same
+144. "you feel like an imposter when you're an imposter. Like, don't try and kill that voice. Listen to that voice and get the evidence to make that voice shut the fuck up." — same
+145. "the best marketing in the entire world is truth. Now, if the truth isn't compelling, it doesn't mean you lie. It means you change the world to make the facts compelling." — same
+
+## Exact quotes — spoken, solo "How To Level Up In Business: Understanding Tradeoffs" (older recording; reupload 2026-10-07)
+146. "I will not outwork everyone, but instead I will out-sacrifice anyone." — solo (reupload feed) — https://exa.ai/library/podcast/wddtvnt3bwm/episode/nmk3nr7qxyh
+147. "I don't believe that anything great was ever accomplished by someone who was balanced." / "It takes unreasonable sacrifice in order to achieve things that are unreasonable." — same
+148. "I sacrifice my 20s. Straight up, I sacrifice them. And I'm not saying it's the right path." — same
+149. "when you think about a maybe versus a never, then I'll take a maybe over a never any day of the week." — same
