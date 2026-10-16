@@ -206,3 +206,17 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 147. "I don't believe that anything great was ever accomplished by someone who was balanced." / "It takes unreasonable sacrifice in order to achieve things that are unreasonable." — same
 148. "I sacrifice my 20s. Straight up, I sacrifice them. And I'm not saying it's the right path." — same
 149. "when you think about a maybe versus a never, then I'll take a maybe over a never any day of the week." — same
+
+## Exact quotes — spoken, The Game Ep 1006 / Scale or Fail "Every Business Owner Should Watch This" (2026-10-08)
+150. "I've scaled 10 businesses past 10 million, three past 100 million" — opening narration — https://podscripts.co/podcasts/the-game-with-alex-hormozi/every-business-owner-should-watch-this-ep-1006
+151. "complex doesn't mean good." / "That feels not dumb." — same
+152. "there are other humans who have hands who can learn things." / "do you want to be right or do you want to be rich?" — same
+153. "more marketing on a supply constraint does nothing." / "It does not increase throughput." / "I'm never going to tell you to advertise less." — same
+154. (When do you stop raising price?) "Well, when conversion times price goes down." — same
+155. "a lot of people, you know, watch YouTube videos. They read my books, but they don't do anything about it." — same
+
+156. "Ruthless with elimination. Violent with execution. Resilient with setbacks. Relentless with iteration. Unyielding with standards." — X — https://x.com/AlexHormozi/status/2108563352377340066 (2026-10-09)
+157. If you're not sure about whether to keep a leader, imagine what would happen if they were gone. If the answer is "nothing", then that's probably what they're doing. — X — https://x.com/AlexHormozi/status/2109326107367637463 (2026-10-11)
+158. "Your level of maturity is inversely correlated with how much you want other people to celebrate your birthday." / "I have never admired anyone who insisted his birthday was a big deal." — The Game Ep 1007 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/how-to-rank-life-priorities-when-everything-feels-important (2026-10-13)
+159. "businesses behave in patterns." / "I've scaled 10 businesses to $10 million in revenue, $3 to $100 million plus." — The Game Ep 1008 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/can-i-save-this-failing-pack-in-90-days-ep-1008 (2026-10-15)
+160. "you don't have the luxury of time" / "we basically need to make one bet." — same Ep 1008 (cash-constrained turnaround)

@@ -248,3 +248,17 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Rejects "you are worthy" affirmations: the way you know you're worthy of something is that you have it. If everyone is beautiful, no one is. Step one is accepting that you suck; step two is doing something about it. Give yourself permission to suck, be unhappy, not achieve for a long time, lose friends, and be the exception so you can become exceptional.
 - Imposter syndrome is usually accurate: you feel like an imposter when you are one (teaching what you haven't done). Don't kill the voice — get the evidence that shuts it up. Doing something new isn't being an imposter unless you pretend or overclaim; "I could be wrong" stated honestly is not imposture. Not-lying ≠ telling the truth.
 - **State the facts and tell the truth** — the best marketing is truth. If the truth isn't compelling, don't lie; change the world so the facts are compelling — list what someone with that authority would have and make it your action list.
+
+## Constraint first: unbundle founder delivery, then pour on demand (The Game Ep 1006 / Scale or Fail, 2026-10-08)
+- When one founder does every step of delivery, the business takes a break whenever he does. Map the delivery visits, keep the founder on only the steps that truly need his skill, and hand the rest to associates — there are other humans with hands who can learn things. Position the founder as the architect/conductor and the others as the hands; it preserves ego and is easy to explain to customers. Do you want to be right or do you want to be rich?
+- Solve the supply constraint before adding marketing: more marketing on a supply constraint does nothing for throughput. I'll never tell you to advertise less, but sequence matters.
+- If raising price raised close rate, keep raising — buyers in high-stakes categories correlate price with risk and quality. Stop when conversion × price goes down, not merely when you sell fewer.
+- Speed to lead matters most on paid search: high-intent shoppers go to whoever responds first. Collapse a 15–30 day wait to diagnosis into a same-visit handoff where the founder transfers authority to the closer.
+- Build content from the delivery itself: capture every before/after reveal and post it in story, carousel and case-study versions, then CTA to lead gen.
+
+### From public writing (2026-10-16 incremental)
+- Leader test: if imagining they were gone changes "nothing," they are probably doing nothing (X 2026-10-11).
+- Operating standards: ruthless elimination, violent execution, resilient setbacks, relentless iteration, unyielding standards (X 2026-10-09).
+- Birthday maturity: admire celebrating others; distrust demanding others celebrate you (The Game Ep 1007, 2026-10-13).
+- Cash-constrained businesses: pick one bet / one front offer; do not dilute across many flows when weeks from $0 (The Game Ep 1008, 2026-10-15).
+- Put trust next to the action (reviews/safety stats beside CTA); strip repeating banners (Ep 1008 funnel critique).
