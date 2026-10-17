@@ -262,3 +262,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Birthday maturity: admire celebrating others; distrust demanding others celebrate you (The Game Ep 1007, 2026-10-13).
 - Cash-constrained businesses: pick one bet / one front offer; do not dilute across many flows when weeks from $0 (The Game Ep 1008, 2026-10-15).
 - Put trust next to the action (reviews/safety stats beside CTA); strip repeating banners (Ep 1008 funnel critique).
+
+### From public writing (2026-10-17 incremental)
+- A refund is only an apology; after a clear mistake, go past neutral (refund + their extra costs + a make-good) so a tragic moment becomes magic moments and a champion ("You Made Your Customers ANGRY Now What", reupload feed 2026-10-16).
+- Angry boat: own it immediately, get in fast, be angrier about the mistake than the customer is, and validate — only they can minimize their pain (same).
+- Owner owns every team mistake: "it's always immediately your fault"; fault = control = power to fix (same).
+- Team members who mess up: skip guilt/shame; credit goes only to making it right and making sure it never happens again (same).
+- High refund rates mean fix the product/expectations or stop selling it; give front-line staff a pre-approved "box" of make-goods (same).

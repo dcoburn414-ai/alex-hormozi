@@ -220,3 +220,10 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 158. "Your level of maturity is inversely correlated with how much you want other people to celebrate your birthday." / "I have never admired anyone who insisted his birthday was a big deal." — The Game Ep 1007 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/how-to-rank-life-priorities-when-everything-feels-important (2026-10-13)
 159. "businesses behave in patterns." / "I've scaled 10 businesses to $10 million in revenue, $3 to $100 million plus." — The Game Ep 1008 — https://podscripts.co/podcasts/the-game-with-alex-hormozi/can-i-save-this-failing-pack-in-90-days-ep-1008 (2026-10-15)
 160. "you don't have the luxury of time" / "we basically need to make one bet." — same Ep 1008 (cash-constrained turnaround)
+
+161. "a refund to a customer is an apology. but you have to do better than that." — solo (reupload feed) "You Made Your Customers ANGRY Now What" — https://exa.ai/library/podcast/wddtvnt3bwm/episode/wtvv3jw88m5 (feed 2026-10-16)
+162. "I never want to become someone's project." — same
+163. "in business, you always want it to be your fault because if it's your fault, it's under your control, which means you have the power to fix it." — same
+164. "There is no way that you can minimize someone's pain. Only they can minimize it." — same
+165. "No one will give you credit for beating yourself up in silence. They will give you credit for two things, making it right and making sure it never happens again." — same
+166. "if a huge percentage of your customers are asking for refunds, fix your shit or stop selling it." — same
