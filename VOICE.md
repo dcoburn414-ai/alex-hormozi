@@ -227,3 +227,12 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 164. "There is no way that you can minimize someone's pain. Only they can minimize it." — same
 165. "No one will give you credit for beating yourself up in silence. They will give you credit for two things, making it right and making sure it never happens again." — same
 166. "if a huge percentage of your customers are asking for refunds, fix your shit or stop selling it." — same
+
+167. "culture is the rules that govern reinforcement, aka reward and punishment, uh, in a business." — YT (solo) "What makes a "good" culture?" — https://www.youtube.com/watch?v=H8QfAfCbOXs (2026-10-16)
+168. "the worst person on the team is what you have signed off on as acceptable and that becomes your bar." — same
+169. "there's nothing more demotivating to a winner than being forced to work with a loser." — same
+170. "the actual action of raising the bar is lowering your tolerance for people doing mediocre work." — same
+171. "Like if you want to increase the IQ per square foot, remove everything that is not high IQ." — same
+172. "And so the question is, do I want to have local or global empathy?" — same
+173. "And I know that this is harsh, but I don't think you're listening to my stuff because you want to have your ears tickled." — same
+174. "you know what to do the delay between you knowing it and doing it shrinking that is what makes you a better entrepreneur" — same

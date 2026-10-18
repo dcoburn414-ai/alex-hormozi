@@ -269,3 +269,11 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Owner owns every team mistake: "it's always immediately your fault"; fault = control = power to fix (same).
 - Team members who mess up: skip guilt/shame; credit goes only to making it right and making sure it never happens again (same).
 - High refund rates mean fix the product/expectations or stop selling it; give front-line staff a pre-approved "box" of make-goods (same).
+
+### From public writing (2026-10-18 incremental)
+- Culture = the spoken and (mostly) unspoken rules of what gets rewarded and punished; people learn them firsthand and by observation, so the owner is chief reinforcement officer and it must cascade through leaders (YT "What makes a 'good' culture?" 2026-10-16).
+- Biggest culture signal, more than promotions, is who you fire. Raise the bar horizontally within each function, not by demanding exec-level skill from frontline staff; the worst person on a team is the bar you signed off on (same).
+- The constraint is the mediocre middle (clock-in/clock-out, rework), not true losers; reward managers for letting go of bad people; give a few chances, not nine (same).
+- Easier way in, faster way out: judge output, not interviews; don't let people sell excuses (Napoleon's lucky generals); in sales he knows an A within 7–14 days (same).
+- Company growth tracks the founder's tolerance for mediocrity; as you win, what was good becomes mediocre — pull your 5-year standard into the present; removing an 80 raises the average more than adding a 140 (same).
+- Global over local empathy: take the personal pain of the hard call so the rest of the team doesn't suffer; respect the individual but make the call. Shrinking the delay between knowing and doing is what makes a better entrepreneur (same).
