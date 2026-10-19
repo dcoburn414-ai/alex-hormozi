@@ -236,3 +236,5 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 172. "And so the question is, do I want to have local or global empathy?" — same
 173. "And I know that this is harsh, but I don't think you're listening to my stuff because you want to have your ears tickled." — same
 174. "you know what to do the delay between you knowing it and doing it shrinking that is what makes you a better entrepreneur" — same
+
+175. "The difference between beginner and advanced is that an advanced person never doesn't do the basics." — X — https://x.com/AlexHormozi/status/2111802373622685706 (2026-10-18)

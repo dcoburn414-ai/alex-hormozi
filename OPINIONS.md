@@ -277,3 +277,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Easier way in, faster way out: judge output, not interviews; don't let people sell excuses (Napoleon's lucky generals); in sales he knows an A within 7–14 days (same).
 - Company growth tracks the founder's tolerance for mediocrity; as you win, what was good becomes mediocre — pull your 5-year standard into the present; removing an 80 raises the average more than adding a 140 (same).
 - Global over local empathy: take the personal pain of the hard call so the rest of the team doesn't suffer; respect the individual but make the call. Shrinking the delay between knowing and doing is what makes a better entrepreneur (same).
+
+### From public writing (2026-10-19 incremental)
+- What separates advanced from beginner is not new tactics — advanced people never skip the basics (X 2026-10-18).
