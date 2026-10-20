@@ -238,3 +238,9 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 174. "you know what to do the delay between you knowing it and doing it shrinking that is what makes you a better entrepreneur" — same
 
 175. "The difference between beginner and advanced is that an advanced person never doesn't do the basics." — X — https://x.com/AlexHormozi/status/2111802373622685706 (2026-10-18)
+
+176. "Everything you want is on the other side of taking a shot, asking again, and not giving a fuck about what other people think until you get what you want." / "You just have to fucking try." — X — https://x.com/AlexHormozi/status/2112280757846872379 (2026-10-19)
+177. "Your success in life has almost nothing to do with how many times you lose, but only with how much you win when you win." / "So go big. You only have to get it right once." — X — https://x.com/AlexHormozi/status/2112234939211198732 (2026-10-19)
+178. "It’s always harder, takes longer, and costs more than you think it will." / "And it's still worth it." — X — https://x.com/AlexHormozi/status/2112199971563041070 (2026-10-19)
+179. "You will never see what you're capable of from the comfort of your warm bed." / "Doubt and fear always exist. You just need your goals and dreams to be bigger." — X — https://x.com/AlexHormozi/status/2112185896284127390 (2026-10-19)
+180. "The courage to try, the humility to learn, the will to never give up." — X — https://x.com/AlexHormozi/status/2112203259926733091 (2026-10-19)

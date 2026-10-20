@@ -280,3 +280,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-10-19 incremental)
 - What separates advanced from beginner is not new tactics — advanced people never skip the basics (X 2026-10-18).
+
+### From public writing (2026-10-20 incremental)
+- Outcomes are asymmetric: success depends far less on how often you lose than on how much you win when you win — so go big; you only have to get it right once (X 2026-10-19).
+- Most of what you want sits behind taking the shot, asking again, and ignoring what others think until you get it. Everything is harder, slower, and costlier than you expect — and still worth it. Doubt and fear never leave; make the goals bigger than them (X 2026-10-19).
