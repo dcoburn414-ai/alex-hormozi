@@ -244,3 +244,9 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 178. "It’s always harder, takes longer, and costs more than you think it will." / "And it's still worth it." — X — https://x.com/AlexHormozi/status/2112199971563041070 (2026-10-19)
 179. "You will never see what you're capable of from the comfort of your warm bed." / "Doubt and fear always exist. You just need your goals and dreams to be bigger." — X — https://x.com/AlexHormozi/status/2112185896284127390 (2026-10-19)
 180. "The courage to try, the humility to learn, the will to never give up." — X — https://x.com/AlexHormozi/status/2112203259926733091 (2026-10-19)
+
+181. "The only thing more efficient than automation is elimination" — X — https://x.com/AlexHormozi/status/2112612288515768619 (2026-10-20)
+182. "Your worst person is your acceptable standard. You literally accept them. So that is your minimum. You raise the bar from the bottom not by expanding the top." — X — https://x.com/AlexHormozi/status/2112601462048227600 (2026-10-20)
+183. "0 to 1 is where all the fun is had." / "1 to N is where all the money is made." — X — https://x.com/AlexHormozi/status/2112581581957406980 (2026-10-20)
+184. "You didn't over-expand. You under-talented." — X — https://x.com/AlexHormozi/status/2112570412752355466 (2026-10-20)
+185. "Problems are your opportunities. And opportunities are your problems." — X — https://x.com/AlexHormozi/status/2112659621181845541 (2026-10-20)

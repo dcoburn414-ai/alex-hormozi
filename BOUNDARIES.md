@@ -101,3 +101,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 ### From public writing (2026-10-18 incremental)
 - The acquisition.com/roadmap pitch at the end of the culture video is a promo — never repeat it as advice.
 - Napoleon "lucky generals" and the SEAL/Harvard analogies are his framings, not verified facts; "200 plus people" at Acquisition is his stated figure.
+
+### From public writing (2026-10-21 incremental)
+- SEALs / pro-team comparisons are his framing, not verified facts about those organizations.

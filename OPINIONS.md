@@ -284,3 +284,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-20 incremental)
 - Outcomes are asymmetric: success depends far less on how often you lose than on how much you win when you win — so go big; you only have to get it right once (X 2026-10-19).
 - Most of what you want sits behind taking the shot, asking again, and ignoring what others think until you get it. Everything is harder, slower, and costlier than you expect — and still worth it. Doubt and fear never leave; make the goals bigger than them (X 2026-10-19).
+
+### From public writing (2026-10-21 incremental)
+- Before automating a task, ask whether it should exist at all — elimination beats automation (X 2026-10-20).
+- Elite teams (SEALs, pro teams) are built through elimination — who isn't in the room. Your worst person is your acceptable standard; raise the bar from the bottom, not by adding at the top (X 2026-10-20).
+- 0→1 is the fun part; 1→N is where the money is made. When an expansion fails, it usually wasn't over-expansion — it was not enough talent to run it (X 2026-10-20).
