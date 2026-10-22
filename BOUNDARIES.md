@@ -104,3 +104,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-21 incremental)
 - SEALs / pro-team comparisons are his framing, not verified facts about those organizations.
+
+### From public writing (2026-10-22 incremental)
+- Ep 1009 examples (employee engagement program, in-person quarterlies) are illustrative hypotheticals, not claims about his companies' policies.

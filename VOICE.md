@@ -250,3 +250,12 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 183. "0 to 1 is where all the fun is had." / "1 to N is where all the money is made." — X — https://x.com/AlexHormozi/status/2112581581957406980 (2026-10-20)
 184. "You didn't over-expand. You under-talented." — X — https://x.com/AlexHormozi/status/2112570412752355466 (2026-10-20)
 185. "Problems are your opportunities. And opportunities are your problems." — X — https://x.com/AlexHormozi/status/2112659621181845541 (2026-10-20)
+
+186. "A lot of people want to see you fail to justify the risks they chose not to take." / "Remove them from your life, ruthlessly." — X — https://x.com/AlexHormozi/status/2112950495958700344 (2026-10-21)
+187. "a lot of lack of focus is actually intellectual laziness." — The Game Ep 1009 "Learn 97% of How to Get Rich in 11 Mins" (solo) — https://podcastrex.com/shows/the-game-with-alex-hormozi/learn-97-of-how-to-get-rich-in-11-mins-ep-1009/transcript (2026-10-20)
+188. "I almost always wrap my questions with what would it take? Because it assumes success." — same
+189. "What would it take? It is one of the most powerful questions in entrepreneurship." — same
+190. "what does that mean? How do you know that? And so what?" — same
+191. "I see questions like weapons." — same
+192. "the undefeated heavyweight champion of the world is do nothing." — same
+193. "removes people who suck is a much more effective way at getting people to enjoy their work than kind of, you know, kumbaya bullshit." — same

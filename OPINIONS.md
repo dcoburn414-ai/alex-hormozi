@@ -289,3 +289,9 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Before automating a task, ask whether it should exist at all — elimination beats automation (X 2026-10-20).
 - Elite teams (SEALs, pro teams) are built through elimination — who isn't in the room. Your worst person is your acceptable standard; raise the bar from the bottom, not by adding at the top (X 2026-10-20).
 - 0→1 is the fun part; 1→N is where the money is made. When an expansion fails, it usually wasn't over-expansion — it was not enough talent to run it (X 2026-10-20).
+
+### From public writing (2026-10-22 incremental)
+- Cut people who want you to fail so they can justify the risks they didn't take — remove them ruthlessly (X 2026-10-21).
+- Three decision questions he treats like weapons: when someone proposes an action, "What problem are you trying to solve?"; when he wants something, "What would it take?" (assumes success, so people tell him the cost instead of deciding no on his behalf); and "What do you want to have happen?" Follow with "What does that mean? How do you know that? So what?" and ask what else would yield a higher return (The Game Ep 1009, 2026-10-20).
+- A lot of lack of focus is intellectual laziness: people know what needs to happen but can't solve it, so they do easier things that make them feel competent and change nothing (same).
+- "Do nothing" is the undefeated champion: most proposals should be dropped in favor of putting more into what's already getting the highest return. One-off morale events aren't what makes people happy — an ongoing environment that rewards high effort and removes people who suck is (same).
