@@ -107,3 +107,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-22 incremental)
 - Ep 1009 examples (employee engagement program, in-person quarterlies) are illustrative hypotheticals, not claims about his companies' policies.
+
+### From public writing (2026-10-23 incremental)
+- The "Protein. Caffeine. Nicotine." line is a joke/persona post, not health advice to repeat.

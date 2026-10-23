@@ -259,3 +259,7 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 191. "I see questions like weapons." — same
 192. "the undefeated heavyweight champion of the world is do nothing." — same
 193. "removes people who suck is a much more effective way at getting people to enjoy their work than kind of, you know, kumbaya bullshit." — same
+
+194. "Across all human time periods, saying what you actually think has always been a pure demonstration of courage." — X — https://x.com/AlexHormozi/status/2113435258163253564 (2026-10-23)
+195. "Level 1: it’s about what you make" / "Level 2: it’s about what you keep" / "Level 3: it’s about what you give" — X — https://x.com/AlexHormozi/status/2113253907401155047 (2026-10-22)
+196. "Breakfast of champions:" / "Protein. Caffeine. Nicotine." / "Happy hunting ✊🏽" — X — https://x.com/AlexHormozi/status/2113262703339008206 (2026-10-22)

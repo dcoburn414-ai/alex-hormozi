@@ -295,3 +295,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Three decision questions he treats like weapons: when someone proposes an action, "What problem are you trying to solve?"; when he wants something, "What would it take?" (assumes success, so people tell him the cost instead of deciding no on his behalf); and "What do you want to have happen?" Follow with "What does that mean? How do you know that? So what?" and ask what else would yield a higher return (The Game Ep 1009, 2026-10-20).
 - A lot of lack of focus is intellectual laziness: people know what needs to happen but can't solve it, so they do easier things that make them feel competent and change nothing (same).
 - "Do nothing" is the undefeated champion: most proposals should be dropped in favor of putting more into what's already getting the highest return. One-off morale events aren't what makes people happy — an ongoing environment that rewards high effort and removes people who suck is (same).
+
+### From public writing (2026-10-23 incremental)
+- Saying what you actually think has always been a pure demonstration of courage, in every era (X 2026-10-23).
+- Money has levels: first it's about what you make, then what you keep, then what you give (X 2026-10-22).
