@@ -299,3 +299,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-23 incremental)
 - Saying what you actually think has always been a pure demonstration of courage, in every era (X 2026-10-23).
 - Money has levels: first it's about what you make, then what you keep, then what you give (X 2026-10-22).
+
+### From public writing (2026-10-25 incremental)
+- Entrepreneurship is trading years of your life to find out which ideas were good; when everything is hard and nothing works the first time, you have to will it into existence — that's when it starts to happen (X 2026-10-24).

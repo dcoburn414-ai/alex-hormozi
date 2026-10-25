@@ -263,3 +263,6 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 194. "Across all human time periods, saying what you actually think has always been a pure demonstration of courage." — X — https://x.com/AlexHormozi/status/2113435258163253564 (2026-10-23)
 195. "Level 1: it’s about what you make" / "Level 2: it’s about what you keep" / "Level 3: it’s about what you give" — X — https://x.com/AlexHormozi/status/2113253907401155047 (2026-10-22)
 196. "Breakfast of champions:" / "Protein. Caffeine. Nicotine." / "Happy hunting ✊🏽" — X — https://x.com/AlexHormozi/status/2113262703339008206 (2026-10-22)
+
+197. "Entrepreneurship is trading years of your life to find out which of your ideas were good." — X — https://x.com/AlexHormozi/status/2114068763578654823 (2026-10-24)
+198. "Everything is hard. Nothing works the first time. It all feels pointless." / "you’re going to have to will it into existence with every ounce of your fucking soul. And that’s when it starts to happen." — X — https://x.com/AlexHormozi/status/2113971357054902284 (2026-10-24)
