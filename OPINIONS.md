@@ -302,3 +302,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-10-25 incremental)
 - Entrepreneurship is trading years of your life to find out which ideas were good; when everything is hard and nothing works the first time, you have to will it into existence — that's when it starts to happen (X 2026-10-24).
+
+### From public writing (2026-10-27 incremental)
+- Work beats talent: extraordinary outcomes follow extraordinary work, not extraordinary people; talent without the work is wasted potential, and you only learn which you are by going all in (X 2026-10-26).
+- Average people stay poor partly because they believe they're special and waiting to be chosen; the 'invitation' arrives daily as risk and a lot of work with no guaranteed payoff (X 2026-10-26).
+- 'The algorithm changed' is never why content tanks — the algorithm approximates value, so valuable content benefits from changes; the one exception is format preferences (e.g. video getting 2x views) (X 2026-10-26).

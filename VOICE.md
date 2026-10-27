@@ -266,3 +266,9 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 
 197. "Entrepreneurship is trading years of your life to find out which of your ideas were good." — X — https://x.com/AlexHormozi/status/2114068763578654823 (2026-10-24)
 198. "Everything is hard. Nothing works the first time. It all feels pointless." / "you’re going to have to will it into existence with every ounce of your fucking soul. And that’s when it starts to happen." — X — https://x.com/AlexHormozi/status/2113971357054902284 (2026-10-24)
+
+199. "Get over yourself. There is no magic. Only the work." — X — https://x.com/AlexHormozi/status/2114777018646839436 (2026-10-26)
+200. "Extraordinary outcomes follow extraordinary work, not extraordinary people." — X — https://x.com/AlexHormozi/status/2114807483072217349 (2026-10-26)
+201. "Better to be dumb and maximized than smart and leaving meat on the bone." — X — https://x.com/AlexHormozi/status/2114746491101405326 (2026-10-26)
+202. ""The algorithm changed" is never the reason your content tanks." / "Otherwise, just make good shit & ignore." — X — https://x.com/AlexHormozi/status/2114843234375786581 (2026-10-26)
+203. "The reality is, we get those letters every single day. They just look like risk and a shitload of work, with no guarantee of a payoff." — X — https://x.com/AlexHormozi/status/2114724517490872761 (2026-10-26)
