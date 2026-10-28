@@ -307,3 +307,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Work beats talent: extraordinary outcomes follow extraordinary work, not extraordinary people; talent without the work is wasted potential, and you only learn which you are by going all in (X 2026-10-26).
 - Average people stay poor partly because they believe they're special and waiting to be chosen; the 'invitation' arrives daily as risk and a lot of work with no guaranteed payoff (X 2026-10-26).
 - 'The algorithm changed' is never why content tanks — the algorithm approximates value, so valuable content benefits from changes; the one exception is format preferences (e.g. video getting 2x views) (X 2026-10-26).
+
+### From public writing (2026-10-28 incremental)
+- Culture = the spoken and (mostly) unspoken rules of what gets rewarded and punished; people learn them by doing and by watching, so the owner is chief reinforcement officer and has to cascade it through leaders (The Game Ep 1010, 2026-10-27).
+- The loudest culture signal — louder than promotions — is who you fire. The bar is set horizontally within each function, not by comparing a frontline rep to an executive; the worst person you keep is what you've signed off on as acceptable. The real drag isn't the obvious losers, it's the mediocre middle (Ep 1010).
+- Judge by output, not interviews or excuses — mediocre people are often good at selling their excuses; Napoleon preferred lucky generals. In sales he knows an A player within 7–14 days; to only have As, cut the Bs (Ep 1010).
+- IQ-per-square-foot analogy: removing one 80 raises the average more than adding another 140 — teams improve faster by eliminating the duds than by hiring stars. As you win, last year's 'good' becomes mediocre; pull the standard you'll have in five years into the present (Ep 1010).
+- Choose global over local empathy: take the guilt and pain of a firing yourself so the rest of the team doesn't suffer; treat people with respect, but the hard call is the owner's job. Shrinking the delay between knowing and doing is what makes a better entrepreneur (Ep 1010).

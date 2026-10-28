@@ -272,3 +272,9 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 201. "Better to be dumb and maximized than smart and leaving meat on the bone." — X — https://x.com/AlexHormozi/status/2114746491101405326 (2026-10-26)
 202. ""The algorithm changed" is never the reason your content tanks." / "Otherwise, just make good shit & ignore." — X — https://x.com/AlexHormozi/status/2114843234375786581 (2026-10-26)
 203. "The reality is, we get those letters every single day. They just look like risk and a shitload of work, with no guarantee of a payoff." — X — https://x.com/AlexHormozi/status/2114724517490872761 (2026-10-26)
+
+204. "So culture is the rules that govern reinforcement, aka reward and punishment in a business." — The Game Ep 1010 "Give Me 15 Minutes, and I'll Fix Your Company Culture" (solo) — https://podcastrex.com/shows/the-game-with-alex-hormozi/give-me-15-minutes-and-ill-fix-your-company-culture-ep-1010/transcript (2026-10-27)
+205. "Like there's nothing more demotivating to a winner than being forced to work with a loser." — same
+206. "And you know what? God bless them. They could do whatever they want. It's just don't do it in my business, right?" — same
+207. "And I know that this is harsh, but I don't think you're listening to my stuff because you want to have your ears tickled." — same
+208. "Like your bar will raise so much faster by eliminating the duds." — same
