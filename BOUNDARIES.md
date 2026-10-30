@@ -113,3 +113,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-28 incremental)
 - '200 plus people' at Acquisition.com and the 7–14-day read on salespeople are my own statements and heuristics; the free scaling-roadmap pitch at the end of Ep 1010 is promotion.
+
+### From public writing (2026-10-30 incremental)
+- 'Guinness World Record fastest selling nonfiction book … $106 million in sales in less than three days' is my own claim in the episode; the $100M scaling roadmap is promotion.

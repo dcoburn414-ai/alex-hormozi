@@ -278,3 +278,12 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 206. "And you know what? God bless them. They could do whatever they want. It's just don't do it in my business, right?" — same
 207. "And I know that this is harsh, but I don't think you're listening to my stuff because you want to have your ears tickled." — same
 208. "Like your bar will raise so much faster by eliminating the duds." — same
+
+209. "Intelligence is speed of learning. Intelligence is a rate." — The Game Ep 1011 "How to Learn Anything Fast" (solo) — https://podcastrex.com/shows/the-game-with-alex-hormozi/how-to-learn-anything-fast-ep-1011/transcript (2026-10-29)
+210. "If necessity is the mother of innovation, repetition is the father of skill" — same
+211. "But if you do not track, you do not care, period, on anything." — same
+212. "If someone cannot tell you what to do with either your mouth or your body, they are not giving you clear directions to succeed." — same
+213. "A little open loops, keep it spicy" — same
+214. "Let's go manifestation. But manifest on your own time" — same
+215. "They got lucky, and so what?" — same
+216. "At least that's how I learned shit." — same
