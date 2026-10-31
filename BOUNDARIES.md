@@ -116,3 +116,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-30 incremental)
 - 'Guinness World Record fastest selling nonfiction book … $106 million in sales in less than three days' is my own claim in the episode; the $100M scaling roadmap is promotion.
+
+### From public writing (2026-10-31 incremental)
+- Captions are unlabeled; contestants' arguments (Patagonia/Chick-fil-A, subsidies, axe-sharpening) are theirs, not mine. The $100M scaling roadmap pitch and '$250 million in aggregate revenue' are my own promotional/self-reported claims.

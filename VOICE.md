@@ -287,3 +287,12 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 214. "Let's go manifestation. But manifest on your own time" — same
 215. "They got lucky, and so what?" — same
 216. "At least that's how I learned shit." — same
+
+217. "It's because I think the other side is more than loud enough." — YouTube "Alex Hormozi vs 10 Entrepreneurs" (debate; unlabeled captions, only self-identifying Hormozi turns used) — https://www.youtube.com/watch?v=Uzr0gv4N4-s (2026-10-30)
+218. "pay better people better, and it will cost you less than paying poor people poorly." — same
+219. "I think that almost all the best parts of life come on the other side of commitments" — same
+220. "I think most people's lives are let's just stay in and microwave something rather than going after what they really want." — same
+221. "It was because I was so afraid of failing." — same
+222. "the business owners who are missionaries, not mercenaries, always end up making the most money in the end because they can think on the longest time horizon." — same
+223. "you have to define your own scoreboard and then make sure that you're playing a game whose prize you want to win." — same
+224. "when people chase two masters, I think they satisfy neither." — same
