@@ -296,3 +296,5 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 222. "the business owners who are missionaries, not mercenaries, always end up making the most money in the end because they can think on the longest time horizon." — same
 223. "you have to define your own scoreboard and then make sure that you're playing a game whose prize you want to win." — same
 224. "when people chase two masters, I think they satisfy neither." — same
+
+225. "Being the best is a business plan." / "Being the cheapest is a business plan." / "Just don't be in the middle." — X — https://x.com/AlexHormozi/status/2116546148207141358 (2026-10-31)
