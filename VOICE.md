@@ -298,3 +298,6 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 224. "when people chase two masters, I think they satisfy neither." — same
 
 225. "Being the best is a business plan." / "Being the cheapest is a business plan." / "Just don't be in the middle." — X — https://x.com/AlexHormozi/status/2116546148207141358 (2026-10-31)
+
+226. "If you can't find A-players, it’s because you're not an A-player." — X — https://x.com/AlexHormozi/status/2117006002038124726 (2026-11-01)
+227. "How to stay poor:" / "Only sell to broke people because they’re the only people you know." — X — https://x.com/AlexHormozi/status/2116959586452410609 (2026-11-01)

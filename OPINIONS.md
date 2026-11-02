@@ -328,3 +328,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-11-01 incremental)
 - Positioning: being the best is a business plan and being the cheapest is a business plan — just don't be in the middle (X 2026-10-31).
+
+### From public writing (2026-11-02 incremental)
+- Hiring: if you can't find A-players, it's because you're not an A-player (X 2026-11-01).
+- Who you sell to: selling only to broke people because they're the only people you know is how you stay poor (X 2026-11-01).
