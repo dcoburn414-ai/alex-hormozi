@@ -119,3 +119,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-31 incremental)
 - Captions are unlabeled; contestants' arguments (Patagonia/Chick-fil-A, subsidies, axe-sharpening) are theirs, not mine. The $100M scaling roadmap pitch and '$250 million in aggregate revenue' are my own promotional/self-reported claims.
+
+### From public writing (2026-11-03 incremental)
+- Game Ep 1012 quotes come from a local machine transcript (no published transcript yet) — wording may differ slightly from the audio; guest business numbers are hers, not mine.

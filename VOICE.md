@@ -301,3 +301,10 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 
 226. "If you can't find A-players, it’s because you're not an A-player." — X — https://x.com/AlexHormozi/status/2117006002038124726 (2026-11-01)
 227. "How to stay poor:" / "Only sell to broke people because they’re the only people you know." — X — https://x.com/AlexHormozi/status/2116959586452410609 (2026-11-01)
+
+228. "How to stay poor:" / "Think everyone is broke because everyone you know is broke." — X — https://x.com/AlexHormozi/status/2117300776032944159 (2026-11-02)
+229. "Being the person who works and brings it in always gives you leverage." — The Game w/ Alex Hormozi Ep 1012 "Building a $2,300,000/yr Business for a Stranger in 57 Mins" (host + guest Ani; machine transcript of the episode audio — only Alex's advising lines quoted) — https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml (2026-11-03)
+230. "And this is why we say nail it then scale it." — same
+231. "pay what would be market rate for the role that they're fulfilling within the business" — same
+232. "if there is more demand and less supply, like for certain times, certain days, then price typically can and should go up." — same
+233. "sometimes we have to go against our desire to do things fast" — same
