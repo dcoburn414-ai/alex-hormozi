@@ -308,3 +308,8 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 231. "pay what would be market rate for the role that they're fulfilling within the business" — same
 232. "if there is more demand and less supply, like for certain times, certain days, then price typically can and should go up." — same
 233. "sometimes we have to go against our desire to do things fast" — same
+
+234. "You must suck at the thing before you can become good at the thing." — X — https://x.com/AlexHormozi/status/2118059572472828223 (2026-11-04)
+235. "“Get fucked” is always an appropriate response to someone who tells you your dreams are too big." / "They’re too big for them, not too big for you." — X — https://x.com/AlexHormozi/status/2118090268784410848 (2026-11-04)
+236. "99% of the time, business sucks." / "You only have one option left: keep fucking going." — X — https://x.com/AlexHormozi/status/2118138355838071023 (2026-11-05)
+237. "You cannot expect other people to root for you before you root for you." / "People believe in people who believe in themselves." — X — https://x.com/AlexHormozi/status/2117953640799555986 (2026-11-04)

@@ -337,3 +337,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - How to stay poor: assume everyone is broke because everyone you know is broke (X 2026-11-02).
 - Multi-location service business (Game Ep 1012, 2026-11-03): more locations before you have the money and manpower usually means worse fulfillment and partners you didn't vet — I made the same mistake with six locations; cash-flow the first one and nail it, then scale it. Pay yourself market rate for the role you actually fill so the unit economics are real before you open more. To split with partners whose goals differ: a shotgun offer (I'll buy you at this price or you buy me at the same terms) or, with multiple shared locations, a clean equity swap — I gave my best location to a partner just to split. Working partner = leverage.
 - Pricing and retention (Game Ep 1012): where demand beats supply on certain days or times, price can and should go up — frame it as peak pricing with off-peak discounts (e.g. +20% weekends) to smooth demand; and 'book a meeting from a meeting' — rebook the next appointment before the customer leaves instead of hoping they come back. Spending ~0.5% of revenue on ads that customers say work is a sign you're under-spending.
+
+### From public writing (2026-11-05 incremental)
+- You must suck at the thing before you can become good at it (X 2026-11-04).
+- People believe in people who believe in themselves — the best way to look like you believe in yourself is to not need anyone's permission to do what you came here to do (X 2026-11-04).
+- 99% of the time business sucks (things don't work, expenses are bigger, people aren't as good); the only option left is to keep going (X 2026-11-05).
