@@ -313,3 +313,8 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 235. "“Get fucked” is always an appropriate response to someone who tells you your dreams are too big." / "They’re too big for them, not too big for you." — X — https://x.com/AlexHormozi/status/2118090268784410848 (2026-11-04)
 236. "99% of the time, business sucks." / "You only have one option left: keep fucking going." — X — https://x.com/AlexHormozi/status/2118138355838071023 (2026-11-05)
 237. "You cannot expect other people to root for you before you root for you." / "People believe in people who believe in themselves." — X — https://x.com/AlexHormozi/status/2117953640799555986 (2026-11-04)
+
+238. "the big mistake that I made was early on seeking call it entrepreneur-like returns from the money I'd made from entrepreneurship" — YT "When You Understand THIS Building Wealth Becomes Embarrassingly Simple" — https://www.youtube.com/watch?v=Ys3o-iqGcoE (2026-11-07)
+239. "my 100% dreams were becoming 0% returns" — same
+240. "the most expensive hire you have is a mediocre financial executive" — same
+241. "when businesses get much larger, cash gets significantly lumpier" — same

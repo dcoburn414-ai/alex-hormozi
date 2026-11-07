@@ -342,3 +342,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - You must suck at the thing before you can become good at it (X 2026-11-04).
 - People believe in people who believe in themselves — the best way to look like you believe in yourself is to not need anyone's permission to do what you came here to do (X 2026-11-04).
 - 99% of the time business sucks (things don't work, expenses are bigger, people aren't as good); the only option left is to keep going (X 2026-11-05).
+
+### From public writing (2026-11-07 incremental)
+- Wealth: the skills that make money in business are often the inverse of those that grow/keep it — his early mistake was demanding entrepreneur-like returns (20:1 LTV:CAC → 20x) from passive money; '100% dreams became 0% returns'. 15–20%/yr is good; a low-risk 'fortress' lets him take bigger bets on the business side (YT 2026-11-07).
+- Most expensive hire is a mediocre financial executive (two surprise eight-figure tax bills). Has reversed his earlier 'just pay as much tax as you can, it means you're making money' line — works early, but as businesses get larger cash gets lumpier and tax planning/deferral compounds (YT 2026-11-07).
