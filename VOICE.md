@@ -318,3 +318,11 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 239. "my 100% dreams were becoming 0% returns" — same
 240. "the most expensive hire you have is a mediocre financial executive" — same
 241. "when businesses get much larger, cash gets significantly lumpier" — same
+
+242. "You can die tomorrow. Today you fight." — X — https://x.com/AlexHormozi/status/2119090811149467757 (2026-11-07)
+243. "Your business vehicle matters more than your effort." — YT "How To Make More Money Than You Deserve (My 2027 Framework)" — https://www.youtube.com/watch?v=pwZJcLZc3_Y (2026-11-08)
+244. "I call this the idiot index because you can have people who aren't that smart or aren't that hardworking but can still make a ton of money" — same
+245. "how many service-based gym owners do you know that are worth a billion dollars? None." — same
+246. "it sounds way cooler to say you're a musician than you're a debt collector" — same
+247. "Fire safety inspection. Absolute racket." — same
+248. "choose the boat that you're going to get in, and then row as hard as you possibly can" — same
