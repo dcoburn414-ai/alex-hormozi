@@ -326,3 +326,7 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 246. "it sounds way cooler to say you're a musician than you're a debt collector" — same
 247. "Fire safety inspection. Absolute racket." — same
 248. "choose the boat that you're going to get in, and then row as hard as you possibly can" — same
+
+249. "A man's work ethic is tested when no one is watching." / "A man's humility is tested when everyone is." — X — https://x.com/AlexHormozi/status/2119898413022237003 (2026-11-09)
+250. "To succeed in the short term, be too loud to ignore." / "To succeed in the long term, be too good to ignore." — X — https://x.com/AlexHormozi/status/2119866691966648406 (2026-11-09)
+251. "Your income scales in direct proportion to your intolerance of mediocrity, delay, and status quo." — X — https://x.com/AlexHormozi/status/2119835793942540341 (2026-11-09)
