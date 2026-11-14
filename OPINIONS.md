@@ -354,3 +354,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-10 incremental)
 - Short-term success comes from being too loud to ignore; long-term success comes from being too good to ignore (X 2026-11-09).
 - Income scales with intolerance of mediocrity, delay, and the status quo; work ethic is tested when no one is watching, humility when everyone is (X 2026-11-09).
+
+### From public writing (2026-11-14 incremental)
+- The top 1% in money are also the top 1% in stress, sacrifice and pain; the price of the outcome is the filter (X 2026-11-13).

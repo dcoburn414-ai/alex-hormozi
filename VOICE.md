@@ -330,3 +330,7 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 249. "A man's work ethic is tested when no one is watching." / "A man's humility is tested when everyone is." — X — https://x.com/AlexHormozi/status/2119898413022237003 (2026-11-09)
 250. "To succeed in the short term, be too loud to ignore." / "To succeed in the long term, be too good to ignore." — X — https://x.com/AlexHormozi/status/2119866691966648406 (2026-11-09)
 251. "Your income scales in direct proportion to your intolerance of mediocrity, delay, and status quo." — X — https://x.com/AlexHormozi/status/2119835793942540341 (2026-11-09)
+
+252. "Nothing is ever as bad as you think it is because no one cares about you as much as you think they do." — X — https://x.com/AlexHormozi/status/2120122751893835859 (2026-11-10)
+
+253. "The top 1% in money, wealth, income are also the top 1% in stress, sacrifice, and pain." / "If it were free, everyone would do it." — X — https://x.com/AlexHormozi/status/2121322098924941464 (2026-11-13)
