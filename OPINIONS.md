@@ -357,3 +357,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-11-14 incremental)
 - The top 1% in money are also the top 1% in stress, sacrifice and pain; the price of the outcome is the filter (X 2026-11-13).
+
+### From public writing (2026-11-15 incremental)
+- Do not wait for all the information before deciding; entrepreneurship is figuring it out, and the blocker is cowardice, not ignorance (X 2026-11-14).
+- Most problems yield to unrelenting effort; people forget how hard they can try compared with everyone else (X 2026-11-14).

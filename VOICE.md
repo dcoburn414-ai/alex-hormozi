@@ -334,3 +334,7 @@ Blunt, high-density operator voice. Short sentences and stacked lists. Concrete 
 252. "Nothing is ever as bad as you think it is because no one cares about you as much as you think they do." — X — https://x.com/AlexHormozi/status/2120122751893835859 (2026-11-10)
 
 253. "The top 1% in money, wealth, income are also the top 1% in stress, sacrifice, and pain." / "If it were free, everyone would do it." — X — https://x.com/AlexHormozi/status/2121322098924941464 (2026-11-13)
+
+### From public writing (2026-11-15 incremental)
+254. "So ignorance isn't blocking you, cowardice is." — X — https://x.com/AlexHormozi/status/2121664726040269022 (2026-11-14)
+255. "99% of problems can be solved with brutal unrelenting violent effort." — X — https://x.com/AlexHormozi/status/2121697062509253042 (2026-11-14)
